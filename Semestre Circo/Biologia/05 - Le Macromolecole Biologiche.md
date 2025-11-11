@@ -18,11 +18,6 @@ I carboidrati (o glucidi) sono composti principalmente da $C$, $H$ e $O$, con la
     * **Esosi chiave:** `[[Glucosio]]` (fonte energetica universale), Fruttosio, Galattosio.
     * In soluzione acquosa, tendono a ciclizzare (Forme di Haworth).
 
-
-
-[Image of glucose ring structure (Haworth projection)]
-
-
 * **Disaccaridi:**
     * Due monosaccaridi uniti da un **legame glicosidico**.
     * *Esempi:* Saccarosio (glucosio + fruttosio), Lattosio (glucosio + galattosio).
@@ -57,11 +52,6 @@ Un gruppo eterogeneo di molecole definite dalla loro **idrofobicità** (insolubi
     * La base delle membrane biologiche. Sono **anfipatici**.
     * Struttura: 1 Glicerolo + 2 Acidi Grassi (code apolari) + 1 Gruppo Fosfato (testa polare).
     * In acqua, formano spontaneamente un **doppio strato (bilayer)**, con le teste polari all'esterno e le code idrofobiche all'interno.
-
-
-
-[Image of phospholipid bilayer structure]
-
 
 * **Steroidi:**
     * Struttura a 4 anelli di carbonio fusi.
@@ -136,11 +126,6 @@ Le proteine sono le macromolecole più versatili, i "cavalli di battaglia" della
     2.  **Struttura Secondaria:** Ripiegamenti locali dello scheletro polipeptidico, stabilizzati da legami H. Le più comuni sono l'**$\alpha$-elica** e il **foglio $\beta$-pieghettato**.
     3.  **Struttura Terziaria:** La forma 3D globale di un singolo polipeptide, stabilizzata da interazioni tra i gruppi R (interazioni idrofobiche, ponti disolfuro, legami ionici, legami H).
     4.  **Struttura Quaternaria:** L'assemblaggio di due o più subunità polipeptidiche (es. l'Emoglobina è un tetramero).
-
-
-
-[Image of four levels of protein structure (primary, secondary, tertiary, quaternary)]
-
 
 * **Domini Proteici e Siti Attivi:**
     * **[[Domini Proteici]]**: Regioni globulari e compatte all'interno della struttura terziaria, spesso associate a una funzione specifica (es. "dominio di legame al DNA"). Le proteine sono spesso modulari, composte da più domini.
