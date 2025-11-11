@@ -64,12 +64,7 @@ Questa è la classificazione batteriologica più importante, basata sulla divers
     * Nei **Gram-positivi**, lo spesso strato di peptidoglicano viene disidratato dall'alcol, i pori si stringono e il complesso viola-iodio rimane intrappolato. **Le cellule restano viola.**
     * Nei **Gram-negativi**, l'alcol scioglie la membrana esterna e attraversa facilmente il sottile strato di peptidoglicano, "lavando via" il complesso viola-iodio. **Le cellule diventano incolori.**
 4.  **Safranina (Colorante di contrasto):** Le cellule incolori (Gram-negativi) assorbono il colorante rosa/rosso. Le cellule viola (Gram-positivi) non cambiano colore.
-
-
-
-[Image of Gram stain procedure showing Gram-positive and Gram-negative bacteria]
-
-
+   
 ### Struttura Gram-Positivi
 * Membrana plasmatica.
 * **Spesso strato di peptidoglicano** ($>90\%$ della parete).
@@ -82,10 +77,6 @@ Questa è la classificazione batteriologica più importante, basata sulla divers
 * **Sottile strato di peptidoglicano**.
 * **Membrana Esterna** (con LPS/Endotossina).
 * **RISULTATO:** **Rosa/Rossi**
-
-
-
-[Image of Gram-positive vs Gram-negative cell wall structure]
 
 
 ---
