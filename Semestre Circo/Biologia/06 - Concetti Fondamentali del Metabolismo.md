@@ -1,5 +1,3 @@
-# 06 - Concetti Fondamentali del Metabolismo
-
 Il **[[Metabolismo]]** (dal greco *metabolē*, "cambiamento") è l'insieme di tutte le reazioni chimiche che avvengono all'interno di un organismo per sostenerne la vita. È un'attività altamente coordinata e regolata che gestisce le risorse materiali ed energetiche della cellula.
 
 Il metabolismo si divide in due grandi branche opposte e interconnesse:
@@ -58,8 +56,6 @@ Queste due branche del metabolismo sono realizzate principalmente attraverso due
 * **Funzione:** È la reazione fondamentale per *costruire* i polimeri (polimerizzazione).
 * **Esempio:** La formazione del `[[Legame Peptidico]]` tra due amminoacidi, o del legame glicosidico tra due monosaccaridi.
     $Amminoacido_1 + Amminoacido_2 \rightarrow Dipeptide + \mathbf{H_2O}$
-
-[Image comparing condensation (forming a bond, releasing water) and hydrolysis (breaking a bond, adding water)]
 
 **Collegamento Chiave:**
 Il **[[Metabolismo]]** è l'equilibrio dinamico tra **[[Catabolismo]]** (che usa l'**idrolisi** per liberare energia) e **[[Anabolismo]]** (che usa la **condensazione** per consumare energia). L'energia liberata dal primo alimenta il secondo, principalmente attraverso il ciclo **`[[ATP]]`/ADP**.

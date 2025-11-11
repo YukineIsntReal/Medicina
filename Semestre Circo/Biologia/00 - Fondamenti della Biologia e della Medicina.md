@@ -1,4 +1,3 @@
-
 Questo documento esplora i concetti basilari che costituiscono le fondamenta della biologia e, di conseguenza, della medicina, con un livello di dettaglio superiore.
 
 ---
