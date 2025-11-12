@@ -1,96 +1,118 @@
-# Lo Smistamento delle Proteine (Protein Sorting)
+# Il Nucleo
 
-La sintesi proteica (traduzione) avviene sui ribosomi nel **citosol**. Tuttavia, la maggior parte delle proteine svolge la propria funzione all'interno di specifici organelli (es. nucleo, mitocondri) o deve essere secreta all'esterno.
-Lo **smistamento proteico** (o *protein targeting*) è il processo biologico che indirizza le proteine neosintetizzate al loro corretto compartimento cellulare.
-
----
-
-## 1. Compartimenti Cellulari e Relazioni Topologiche
-
-Per capire il trasporto, dobbiamo raggruppare i compartimenti cellulari in base alla loro "topologia" (la loro relazione con il citosol e la membrana).
-
-1.  **Nucleo e Citosol:** Sono topologicamente *continui* (o equivalenti). Sebbene separati dall'involucro nucleare, comunicano attraverso "cancelli" (i pori nucleari) senza che le macromolecole debbano attraversare una membrana.
-2.  **La Via Secretoria/Endocitica:** (Reticolo Endoplasmatico, Apparato di Golgi, Endosomi, Lisosomi, Vescicole di trasporto). L'interno (lume) di questi organelli è topologicamente *equivalente* all'**ambiente extracellulare**. Una proteina che entra nel lume del RE non dovrà più attraversare una membrana per essere secreta.
-3.  **Compartimenti Separati:** (Mitocondri, Perossisomi). Sono organelli circondati da membrane che non comunicano tramite vescicole con la via secretoria. Topologicamente sono isolati sia dal citosol sia dall'esterno.
-
-Questa suddivisione topologica definisce i 3 meccanismi di trasporto.
+Il **nucleo** è l'organello distintivo della cellula eucariotica. Contiene la quasi totalità del materiale genetico (DNA) organizzato in **cromatina**. È la sede di processi vitali come la **replicazione** del DNA e la **trascrizione** (sintesi di RNA). Il nucleo è un compartimento altamente dinamico, separato dal citosol ma in costante e selettiva comunicazione con esso.
 
 ---
 
-## 2. Segnali di Indirizzamento (Sequenze Segnale)
+## 1. Struttura del Nucleo
 
-Come fa la cellula a sapere dove va una proteina? La proteina stessa porta un "codice di avviamento postale" molecolare.
+### 1.1 L'Involucro Nucleare
+Non è una singola membrana, ma un **doppio bilayer fosfolipidico** (due membrane concentriche):
+1.  **Membrana Esterna:** È in continuità fisica e funzionale con il [[Reticolo Endoplasmatico]] (RE). La sua superficie citosolica è spesso costellata di [[Ribosomi]].
+2.  **Membrana Interna:** Possiede proteine di legame uniche (es. LBR, Emerina) che ancorano la **lamina nucleare** e la cromatina periferica (eterocromatina).
+3.  **Spazio Perinucleare:** Lo spazio tra le due membrane, in continuità con il lume del RE.
 
-* **Sequenza Segnale:** È una specifica sequenza di amminoacidi (spesso 15-60 aa) all'interno della proteina.
-* **Posizione:** Può essere all'N-terminale (comune per ER, mitocondri), al C-terminale (perossisomi) o interna (per il nucleo).
-* **Destino:** Spesso viene rimossa (clivata) da una *peptidasi del segnale* una volta che la proteina ha raggiunto la destinazione (es. ER, mitocondri), ma non sempre (es. segnale nucleare).
-* **Recettori:** Queste sequenze sono riconosciute da specifici **recettori di smistamento** che legano la proteina e la guidano al traslocatore corretto.
+### 1.2 La Lamina Nucleare
+È un fitto reticolo ($\approx$ 10-20 nm) di **filamenti intermedi** (proteine chiamate **Lamine A, B, C**) che riveste la faccia interna della membrana nucleare interna.
+* **Funzioni:** Fornisce supporto strutturale all'involucro, funge da sito di ancoraggio per la cromatina e partecipa all'organizzazione del nucleo.
 
-| Destinazione | Segnale Tipico | Destino del Segnale |
-| :--- | :--- | :--- |
-| **Reticolo Endopl.** | Sequenza N-terminale idrofoba | Clivato |
-| **Mitocondrio** | Elica anfipatica N-terminale | Clivato |
-| **Nucleo** | Sequenza interna (NLS) ricca di $Lys$, $Arg$ | Non clivato |
-| **Perossisoma** | Sequenza C-terminale (es. $-SKL$) | Non clivato |
-| **Ritorno al RE** | Sequenza C-terminale ($KDEL$) | Non clivato |
+### 1.3 Il Nucleolo
+È la struttura più prominente all'interno del nucleo. Non è delimitato da membrana.
+* **Funzione:** È la "fabbrica" dei ribosomi. È la sede della:
+    1.  Trascrizione degli **RNA ribosomiali (rRNA)** (ad eccezione del 5S rRNA).
+    2.  Processamento (maturazione) degli rRNA.
+    3.  Assemblaggio degli rRNA con le proteine ribosomiali (importate dal citosol) per formare le **subunità ribosomiali** (maggiore 60S e minore 40S).
+
+### 1.4 Il Complesso del Poro Nucleare (NPC)
+L'involucro nucleare è perforato da migliaia di **Pori Nucleari**. Non sono semplici buchi, ma strutture proteiche enormi e complesse ($>$120 MDa).
+* **Struttura:** Ogni NPC è formato da $\approx$ 30-50 proteine diverse, chiamate **Nucleoporine (NUPs)**. Ha una simmetria ottagonale con strutture ad anello (sul lato citosolico e nucleare) e un "canestro" (basket) sul lato nucleare.
+* **Selettività:**
+    * **Diffusione Passiva:** Piccole molecole ($<$ 50-60 kDa) possono diffondere liberamente.
+    * **Trasporto Attivo:** Macromolecole (proteine, RNA, subunità ribosomiali) richiedono un trasporto regolato.
+* **Barriera Selettiva:** Il canale centrale del poro è riempito di Nucleoporine contenenti **domini FG (Fenilalanina-Glicina)**. Queste sequenze disordinate e idrofobe formano una sorta di "gel" o "setaccio" che impedisce il passaggio non regolato di macromolecole.
+
+
+
+[Image of nuclear pore complex structure]
+
 
 ---
 
-## 3. I Tre Meccanismi di Trasporto
+## 2. Il Trasporto Nucleare
 
-### 3.1 Trasporto Regolato (Attraverso Pori Nucleari)
+Questo trasporto attivo (che richiede energia) è mediato da una famiglia di recettori di trasporto solubili chiamati **Carioferine** (Importine e Esportine), che legano specifici segnali sulle proteine "cargo" e interagiscono con i domini FG delle NUPs per attraversare il poro.
 
-È il trasporto tra **citosol e nucleo** (topologicamente equivalenti).
+### 2.1 Segnali di Indirizzamento
+* **NLS (Segnale di Localizzazione Nucleare):** Una sequenza (spesso ricca di amminoacidi basici carichi positivamente, es. $...-Pro-Lis-Lis-Lis-Arg-Lis-Val-...$) che "etichetta" una proteina per l'importazione nel nucleo. **Non viene clivata** dopo l'importazione.
+* **NES (Segnale di Esportazione Nucleare):** Una sequenza (spesso ricca di amminoacidi idrofobi, come la $Leucina$) che etichetta una proteina per l'esportazione nel citosol.
 
-* **Struttura:** **Complesso del Poro Nucleare (NPC)**. È un "cancello" sofisticato, un'enorme struttura proteica (fatta di *nucleoporine*) che perfora l'involucro nucleare.
-* **Come funziona:**
-    1.  **Importazione:** Una proteina "cargo" con un **Segnale di Localizzazione Nucleare (NLS)** viene riconosciuta nel citosol da un **Recettore di Importazione Nucleare** (es. *Importina*).
-    2.  L'Importina lega il cargo e interagisce con le *nucleoporine FG* (ricche di Fenilalanina-Glicina) all'interno del poro, "scivolando" attraverso.
-    3.  La proteina passa attraverso il poro nel suo stato **ripiegato (folded)**.
-    4.  **Rilascio:** All'interno del nucleo, l'Importina lega **Ran-GTP** (una piccola GTPasi). Questo legame causa un cambio conformazionale che fa rilasciare il cargo.
-    5.  **Riciclo:** L'Importina-Ran-GTP torna nel citosol, dove Ran-GAP (una proteina accessoria) idrolizza GTP $\rightarrow$ Ran-GDP, che si stacca, rendendo l'Importina pronta per un altro ciclo.
-* **Gradiente Ran:** Il trasporto è direzionale grazie al **gradiente di Ran**: alta [Ran-GTP] nel nucleo (mantenuta da Ran-GEF) e alta [Ran-GDP] nel citosol (mantenuta da Ran-GAP).
-* **Esportazione:** Funziona in modo inverso, usando **Segnali di Esportazione Nucleare (NES)** e *Esportine* (che legano il cargo solo in presenza di Ran-GTP).
-  
-### 3.2 Trasporto Transmembrana (Tramite Traslocatori)
+### 2.2 Il Motore del Trasporto: Il Ciclo di Ran
+L'energia e la **direzionalità** del trasporto non derivano direttamente dall'idrolisi di $ATP$, ma da un gradiente di concentrazione della piccola GTPasi **Ran**.
 
-È il trasporto dal **citosol** verso **mitocondri, RE o perossisomi** (topologicamente diversi). La proteina deve *attraversare* una o più membrane.
+* **Ran:** Una proteina che agisce come un interruttore molecolare, esistendo in due stati:
+    * **Ran-GTP** (forma attiva)
+    * **Ran-GDP** (forma inattiva)
+* **Gradiente:** Questo gradiente è mantenuto da due regolatori posizionati asimmetricamente:
+    * **Ran-GEF (Guanine nucleotide Exchange Factor):** Si trova **solo nel nucleo** (legato alla cromatina). Ricarica Ran-GDP $\rightarrow$ Ran-GTP. $\rightarrow$ **Alta [Ran-GTP] nel Nucleo**.
+    * **Ran-GAP (GTPase Activating Protein):** Si trova **solo nel citosol** (legata ai filamenti citosolici del poro). Attiva l'idrolisi: Ran-GTP $\rightarrow$ Ran-GDP. $\rightarrow$ **Alta [Ran-GDP] nel Citosol**.
 
-* **Struttura:** **Traslocatori proteici** (canali proteici specializzati, es. $TOM/TIM$ nei mitocondri, $Sec61$ nel RE).
-* **Meccanismo:** La proteina viene trasportata in stato **non ripiegato (unfolded)**, come un filo che passa attraverso una cruna.
-* **Chaperoni:** Proteine (es. $Hsp70$) legano la proteina nel citosol per mantenerla "distesa" (unfolded) e pronta per il trasporto.
+### 2.3 Meccanismo di Importazione
+1.  **Citosol:** Un'**Importina** (recettore di importazione) lega il NLS della proteina cargo.
+2.  Il complesso [Importina-Cargo] attraversa il poro interagendo con le NUPs-FG.
+3.  **Nucleo:** Ran-GTP (qui abbondante) si lega all'Importina.
+4.  Questo legame cambia la conformazione dell'Importina, che **rilascia il cargo** nel nucleo.
+5.  Il complesso [Importina-Ran-GTP] torna nel citosol.
+6.  **Citosol:** Ran-GAP attiva l'idrolisi. Ran-GTP $\rightarrow$ Ran-GDP. Ran-GDP si stacca dall'Importina.
+7.  L'Importina è libera per un nuovo ciclo.
 
-**Due modalità principali:**
-
-1.  **Trasporto Post-Traduzionale (es. Mitocondri):**
-    1.  La proteina è sintetizzata *completamente* nel citosol e mantenuta distesa da $Hsp70$.
-    2.  La sequenza segnale N-terminale è riconosciuta dal complesso **TOM** (membrana esterna mitocondriale).
-    3.  La proteina passa attraverso TOM e poi attraverso **TIM** (membrana interna).
-    4.  All'interno della matrice, la *Hsp70 mitocondriale* (che usa $ATP$) "tira" attivamente la proteina all'interno e aiuta il ripiegamento.
-    5.  La sequenza segnale viene clivata.
-
-2.  **Trasporto Co-Traduzionale (es. Reticolo Endoplasmatico):**
-    1.  La sintesi *inizia* nel citosol. Appena la sequenza segnale N-terminale (idrofoba) emerge dal ribosoma, viene riconosciuta dalla **Particella di Riconoscimento del Segnale (SRP)**.
-    2.  SRP *blocca* la traduzione e guida l'intero complesso (ribosoma + mRNA + proteina nascente) al **Recettore per SRP** sulla membrana del RE.
-    3.  Il ribosoma si aggancia al traslocatore **Sec61**. SRP si stacca.
-    4.  La traduzione *riprende* e la proteina viene "iniettata" (traslocata) nel lume del RE *mentre viene sintetizzata*.
-    5.  La *peptidasi del segnale* (sul lato luminale) taglia la sequenza segnale.
-    6.  (Per le proteine di membrana, il traslocatore Sec61 le inserisce lateralmente nel bilayer).
+### 2.4 Meccanismo di Esportazione
+1.  **Nucleo:** Un'**Esportina** (recettore di esportazione) lega *contemporaneamente* il NES del cargo e **Ran-GTP** (che qui è abbondante). La formazione di questo complesso *ternario* è cooperativa.
+2.  Il complesso [Esportina-Cargo-Ran-GTP] attraversa il poro.
+3.  **Citosol:** Ran-GAP attiva l'idrolisi. Ran-GTP $\rightarrow$ Ran-GDP.
+4.  L'intero complesso si disassembla. Il **cargo viene rilasciato** nel citosol.
+5.  L'Esportina (e Ran-GDP) tornano nel nucleo separatamente.
 
 
 
-### 3.3 Trasporto Vescicolare
+---
 
-È il trasporto tra compartimenti della **via secretoria** (ER, Golgi, endosomi, ecc.) e la membrana plasmatica (topologicamente equivalenti).
+## 3. Regolazione dell'Importazione Nucleare
 
-* **Struttura:** **Vescicole di trasporto**. Piccole "bolle" di membrana che gemmano da un compartimento (donatore) e si fondono con un altro (accettore).
-* **Meccanismo:** Le proteine *non* attraversano mai una membrana. Vengono trasportate come "passeggeri" all'interno del lume della vescicola o come parte della membrana della vescicola stessa.
-* **Fasi chiave:**
-    1.  **Gemmazione (Budding):** Formazione della vescicola. Richiede **proteine di rivestimento (Coat)** che si assemblano sul lato citosolico, curvano la membrana e *selezionano il cargo*.
-        * **COPII:** Trasporto Anterogrado ($RE \rightarrow Golgi$).
-        * **COPI:** Trasporto Retrogrado ($Golgi \rightarrow RE$).
-        * **Clatrina:** ($Golgi \rightarrow Endosoma$) e (Membrana $\rightarrow Endosoma$, *Endocitosi*).
-    2.  **Trasporto:** Le vescicole (ora nude, perso il coat) si muovono (spesso lungo il citoscheletro).
-    3.  **Aggancio (Tethering) e Fusione (Fusion):**
-        * **Proteine Rab (GTPasi):** Agiscono come "codici postali" specifici. Rab-GTP sulla vescicola lega *Tethering factors* sul bersaglio.
-        * **Proteine SNARE:** Mediano la fusione. Una **v-SNARE** (sulla vescicola) si avvolge (come una cerniera) con una **t-SNARE** (sul bersaglio), forzando l'unione dei due doppi strati lipidici e il rilascio del contenuto.
+Il trasporto non è solo "on/off", ma finemente regolato. Un metodo comune è *mascherare* o *smascherare* il segnale NLS in risposta a stimoli.
+
+* **Esempio 1: Recettore dei Glucocortoidi (Ormoni Steroidei)**
+    * **Senza ormone (Citosol):** Il recettore è inattivo, legato a un complesso inibitore (es. $Hsp90$) che **maschera l'NLS**.
+    * **Con ormone:** L'ormone (es. cortisolo) diffonde nella cellula, lega il recettore. Questo causa il distacco dell'inibitore.
+    * **NLS Smascherato:** L'Importina ora può legare l'NLS e trasportare il recettore attivo nel nucleo, dove agirà da fattore di trascrizione.
+
+* **Esempio 2: NF-$\kappa$B (Fattore Trascrizionale)**
+    * **Stato inattivo (Citosol):** $NF-\kappa B$ è legato al suo inibitore, **$I\kappa B$**. $I\kappa B$ **maschera l'NLS** di $NF-\kappa B$.
+    * **Segnale (es. infiammatorio):** Una via di segnalazione attiva una chinasi ($IKK$) che *fosforila* $I\kappa B$.
+    * $I\kappa B$ fosforilato viene riconosciuto e **degradato** dal proteasoma.
+    * **NLS Smascherato:** $NF-\kappa B$ è libero, lega l'Importina e viene traslocato nel nucleo per attivare i geni della risposta infiammatoria.
+
+* **Esempio 3: SREBP (Controllo Colesterolo)**
+    * **Stato inattivo (Membrana ER):** SREBP è una proteina transmembrana ancorata al RE (il suo NLS è nel citosol, ma "bloccato").
+    * **Basso Colesterolo:** Un complesso (SREBP-SCAP) migra via vescicole $COPII$ verso l'**Apparato di Golgi**.
+    * **Nel Golgi:** Due proteasi (S1P, S2P) tagliano SREBP.
+    * **Rilascio:** Il frammento citosolico (contenente l'NLS) viene **rilasciato** dalla membrana.
+    * **Importazione:** Il frammento ora solubile lega l'Importina e va nel nucleo per attivare i geni della sintesi di colesterolo.
+
+---
+
+## 4. Trasporto degli RNA (Esportazione)
+
+Gli RNA sono sintetizzati nel nucleo ma (la maggior parte) funzionano nel citosol. Vengono esportati come complessi **Ribonucleoproteici (RNP)**.
+
+* **Subunità Ribosomiali (assemblate nel Nucleolo):**
+    * Vengono esportate usando il sistema **Ran-GTP** e specifiche Esportine (es. $Crm1$).
+
+* **tRNA e snRNA (small nuclear):**
+    * Usano Esportine specifiche (es. Esportina-t per i $tRNA$) e dipendono da **Ran-GTP**.
+
+* **mRNA (RNA messaggero):**
+    * Il loro trasporto è **indipendente da Ran**.
+    * È un processo complesso legato alla maturazione (splicing, capping, poliadenilazione).
+    * Solo gli mRNA *maturi* vengono esportati. Proteine specifiche (es. complesso **TREX**) legano l'mRNA processato.
+    * Un complesso esportatore (es. **NXF1/NXT1**) lega l'mRNA-RNP e interagisce direttamente con le NUPs-FG del poro.
+    * **Direzionalità:** Sul lato citosolico, un'elicasi $ATP$-dipendente (es. **Dbp5**) rimuove le proteine esportatrici dall'mRNA, impedendo il re-ingresso e garantendo l'unidirezionalità.
