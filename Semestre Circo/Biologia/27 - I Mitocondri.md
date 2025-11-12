@@ -15,7 +15,8 @@ Il mitocondrio è delimitato da **due membrane** distinte, che definiscono quatt
     * Si ripiega in numerose invaginazioni chiamate **creste mitocondriali**, che aumentano enormemente la superficie disponibile.
     * È la sede della **Catena di Trasporto degli Elettroni** e dell'**$ATP$ Sintasi**.
 4.  **Matrice Mitocondriale:**
-    * Lo spazio interno delimitato dalla MMI. Contiene un "brodo" concentrato di enzimi (inclusi quelli del Ciclo di Krebs), il **genoma mitocondriale (mtDNA)**, i **mitoribosomi** e i $tRNA$ necessari per la sintesi proteica *in situ*
+    * Lo spazio interno delimitato dalla MMI. Contiene un "brodo" concentrato di enzimi (inclusi quelli del Ciclo di Krebs), il **genoma mitocondriale (mtDNA)**, i **mitoribosomi** e i $tRNA$ necessari per la sintesi proteica *in situ*.
+
 ---
 
 ## 2. Il Genoma Mitocondriale (mtDNA)
@@ -59,11 +60,6 @@ Questo è il processo che produce la stragrande maggioranza dell'ATP.
     * Il pompaggio di $H^+$ crea un forte **gradiente elettrochimico** attraverso la MMI (lo spazio intermembrana diventa $\approx$ 10 volte più acido e carico positivamente rispetto alla matrice). Questo gradiente è chiamato *Forza Motrice Protonica* ($\Delta p$ o $\Delta\psi$).
     * L'**$ATP$ Sintasi** (un complesso motore-molecolare) agisce come un canale per $H^+$. I protoni fluiscono *secondo gradiente* (tornando nella matrice) attraverso l'ATP Sintasi.
     * Questo flusso di $H^+$ fa ruotare una parte dell'enzima, che catalizza la reazione: $ADP + P_i \rightarrow ATP$.
-
-
-
-[Image of Electron Transport Chain and ATP Synthase]
-
 
 ### 3.5 Bilancio Energetico
 Il bilancio totale (teorico) della respirazione di 1 molecola di glucosio è di circa **30-32 molecole di $ATP$**. (Confrontato con i soli 2 $ATP$ della glicolisi anaerobica).
