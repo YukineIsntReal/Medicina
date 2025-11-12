@@ -1,5 +1,3 @@
-# I Perossisomi
-
 I **Perossisomi** sono piccoli organelli ($\approx$ 0.1-1 $\mu m$) ubiquitari, delimitati da una **singola membrana**. A differenza dei mitocondri, non possiedono un proprio genoma (mtDNA) né ribosomi; tutte le loro proteine (chiamate **Perossine**, *PEX*) sono codificate da geni nucleari, sintetizzate nel citosol e importate post-traduzionalmente.
 
 Sono organelli metabolicamente molto versatili, il cui nome deriva dalla loro capacità di produrre e (soprattutto) neutralizzare il **perossido di idrogeno ($H_2O_2$)**.
