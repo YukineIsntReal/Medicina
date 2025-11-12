@@ -1,5 +1,3 @@
-# Il Citoscheletro: I Filamenti Intermedi (IF)
-
 I **Filamenti Intermedi (IF)** sono la terza classe di filamenti del citoscheletro. Hanno un diametro intermedio ($\approx$ 10 nm), situandosi tra i sottili microfilamenti di actina (7 nm) e i larghi microtubuli (25 nm).
 
 A differenza degli altri due componenti, i filamenti intermedi sono:
@@ -23,11 +21,6 @@ La struttura a "corda" dei filamenti intermedi deriva da un processo gerarchico 
 5.  **Filamento Intermedio:** **8 protofilamenti** si compattano e si avvolgono lateralmente per formare il filamento finale, una struttura simile a una corda, estremamente robusta e flessibile.
 
 Questo assemblaggio è spontaneo (auto-assemblaggio) e non richiede energia ($ATP/GTP$), sebbene sia regolato da fosforilazione.
-
-
-
-[Image of intermediate filament assembly steps]
-
 
 ---
 
