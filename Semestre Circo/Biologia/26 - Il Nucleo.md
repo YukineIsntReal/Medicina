@@ -1,5 +1,3 @@
-# Il Nucleo
-
 Il **nucleo** è l'organello distintivo della cellula eucariotica. Contiene la quasi totalità del materiale genetico (DNA) organizzato in **cromatina**. È la sede di processi vitali come la **replicazione** del DNA e la **trascrizione** (sintesi di RNA). Il nucleo è un compartimento altamente dinamico, separato dal citosol ma in costante e selettiva comunicazione con esso.
 
 ---
@@ -30,12 +28,6 @@ L'involucro nucleare è perforato da migliaia di **Pori Nucleari**. Non sono sem
     * **Diffusione Passiva:** Piccole molecole ($<$ 50-60 kDa) possono diffondere liberamente.
     * **Trasporto Attivo:** Macromolecole (proteine, RNA, subunità ribosomiali) richiedono un trasporto regolato.
 * **Barriera Selettiva:** Il canale centrale del poro è riempito di Nucleoporine contenenti **domini FG (Fenilalanina-Glicina)**. Queste sequenze disordinate e idrofobe formano una sorta di "gel" o "setaccio" che impedisce il passaggio non regolato di macromolecole.
-
-
-
-[Image of nuclear pore complex structure]
-
-
 ---
 
 ## 2. Il Trasporto Nucleare
