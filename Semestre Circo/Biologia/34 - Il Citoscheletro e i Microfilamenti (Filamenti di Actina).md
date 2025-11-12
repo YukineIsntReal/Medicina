@@ -1,5 +1,3 @@
-# Il Citoscheletro: I Microfilamenti (Filamenti di Actina)
-
 I **Microfilamenti**, o **filamenti di actina**, sono i componenti più sottili ($\approx$ 7-9 nm) e flessibili del citoscheletro. Sono polimeri della proteina **Actina**, che è la proteina più abbondante nelle cellule eucariotiche.
 
 Non formano autostrade rigide come i microtubuli, ma piuttosto reti dinamiche, fasci e cavi contrattili, concentrati soprattutto nella *corteccia cellulare* (lo strato di citoplasma subito sotto la membrana plasmatica). Sono essenziali per la forma della cellula, la motilità, la contrazione muscolare e la citochinesi.
@@ -77,11 +75,6 @@ Nel muscolo striato, actina e Miosina II sono organizzate in una struttura crist
     6.  Legame di nuovo $ATP$: La testa si stacca dall'actina.
     7.  Idrolisi $ATP \rightarrow ADP+P_i$: La testa si "ricarica" (torna dritta), pronta per un nuovo ciclo.
 * **Risultato:** Le teste di miosina "camminano" sull'actina, facendo scorrere i filamenti sottili su quelli spessi. Le Linee Z si avvicinano e il sarcomero si **accorcia** (contrazione).
-
-
-
-[Image of sarcomere structure actin myosin]
-
 
 ---
 
