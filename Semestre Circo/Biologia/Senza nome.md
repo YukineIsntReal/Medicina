@@ -1,88 +1,112 @@
-# L'Autofagia
+# Il Citoscheletro: I Microtubuli
 
-L'**Autofagia** (dal greco "mangiare sé stessi") è un processo catabolico cellulare fondamentale e conservato evolutivamente. È il meccanismo "spazzino" e di controllo qualità della cellula, responsabile della degradazione e del riciclo di componenti citoplasmatici (proteine mal ripiegate, aggregati, organelli danneggiati) attraverso il **[[Lisosoma]]**.
-
-Non è solo un sistema di pulizia, ma anche una strategia di sopravvivenza: in condizioni di stress (es. carenza di nutrienti), la cellula digerisce parti "non essenziali" di sé stessa per produrre amminoacidi ed energia ($ATP$) per sopravvivere.
-
-Si distinguono tre meccanismi principali.
+I **Microtubuli** sono i componenti più grandi e rigidi del citoscheletro. Sono cilindri cavi e dinamici che agiscono come impalcatura strutturale, come "binari" per il trasporto intracellulare e come motore per la divisione cellulare e la motilità.
 
 ---
 
-## 1. I Tre Tipi di Autofagia
+## 1. Struttura e Formazione
+
+* **Subunità:** Il microtubulo è un polimero formato da eterodimeri di due proteine globulari: **$\alpha$-tubulina** e **$\beta$-tubulina**.
+* **Legame con Nucleotidi:**
+    * L'$\alpha$-tubulina lega una molecola di **$GTP$** in modo "strutturale" (non viene mai idrolizzata).
+    * La $\beta$-tubulina lega una molecola di **$GTP$** che può essere idrolizzata a **$GDP$** (ruolo regolatorio).
+* **Protofilamento:** I dimeri ($\alpha\beta$) si associano "testa-coda" per formare un **protofilamento** lineare. Questo protofilamento ha una polarità intrinseca: un'estremità espone $\alpha$-tubulina (**estremità Meno, $-$**) e l'altra espone $\beta$-tubulina (**estremità Più, $+$**).
+* **Microtubulo:** Tipicamente **13 protofilamenti** si associano lateralmente per formare un tubo cavo con un diametro di $\approx$ 25 nm.
 
 
 
-### 1.1 Macroautofagia (La Via Principale)
-È la forma di autofagia più studiata e quella a cui ci si riferisce comunemente parlando di "autofagia".
-* **Meccanismo:** È un processo **non selettivo** (bulk-flow) o **selettivo** (per organelli specifici).
-    1.  **Induzione:** In risposta a stress (es. carenza di nutrienti, attivazione di AMPK) o segnali di danno, il complesso inibitore **mTORC1** viene disattivato. Questo permette l'attivazione del complesso di inizio (es. ULK1).
-    2.  **Nucleazione:** Si forma una membrana di isolamento (o *fagoforo*) nel citoplasma, spesso originata da domini del [[Reticolo Endoplasmatico]] o del Golgi.
-    3.  **Elongazione:** Il fagoforo si espande e curva, inglobando una porzione di citoplasma (e/o organelli specifici). Questo processo richiede complessi proteici chiave (es. Beclin 1-VPS34) e la coniugazione della proteina **LC3** alla membrana (da LC3-I citosolica a LC3-II legata alla membrana, un marcatore chiave).
-    4.  **Chiusura:** Il fagoforo si chiude su sé stesso, formando un **Autofagosoma**, una vescicola a *doppia membrana*.
-    5.  **Fusione:** L'autofagosoma migra e si fonde con un **[[Lisosoma]]** (mediato da [[Proteine SNARE]] e Rab).
-    6.  **Degradazione:** Il contenuto viene degradato dalle **idrolasi acide** lisosomiali. I prodotti (amminoacidi, acidi grassi) vengono rilasciati nel citosol per essere riutilizzati.
+[Image of microtubule structure from tubulin dimers]
 
-### 1.2 Microautofagia
-* **Meccanismo:** È un processo **diretto** e più semplice.
-    * La membrana del lisosoma (o dell'endosoma tardivo) stessa si *invagina* o protrude per inglobare direttamente piccole porzioni di citoplasma.
-    * È un processo spesso costitutivo (continuo) che contribuisce al normale turnover dei componenti citosolici.
-
-### 1.3 Autofagia Mediata da Chaperon (CMA)
-È una forma di autofagia **altamente selettiva** che degrada *proteine specifiche* una per una, senza richiedere la formazione di vescicole.
-* **Meccanismo:**
-    1.  **Riconoscimento (Citosol):** La proteina "cargo" da degradare deve esporre una specifica sequenza segnale (un pentapeptide, motivo **KFERQ**).
-    2.  Il complesso [[Chaperone]] citosolico **Hsc70** (un membro della famiglia $Hsp70$) riconosce e lega il motivo KFERQ.
-    3.  **Aggancio (Lisosoma):** Il complesso [Hsc70-Cargo] viene guidato alla membrana del lisosoma, dove si lega a un recettore transmembrana specifico: **LAMP2A**.
-    4.  **Traslocazione:** Il legame con LAMP2A (che forma un complesso di traslocazione) induce lo *srotolamento* (unfolding) della proteina cargo.
-    5.  La proteina (ora lineare) viene traslocata direttamente attraverso la membrana lisosomiale nel lume, dove viene immediatamente degradata dalle idrolasi.
-
-| Caratteristica | Macroautofagia | Microautofagia | Autofagia Mediata da Chaperon (CMA) |
-| :--- | :--- | :--- | :--- |
-| **Cargo** | Organelli, aggregati, citosol | Citosol (piccole porzioni) | Proteine solubili specifiche |
-| **Selettività** | Non selettiva (bulk) o Selettiva (es. Mitofagia) | Generalmente non selettiva | Altamente selettiva (motivo KFERQ) |
-| **Vescicole** | Sì (Autofagosoma a doppia membrana) | No (Invaginazione lisosomiale) | No (Traslocazione diretta) |
-| **Recettore di Membrana** | - | - | **LAMP2A** |
-| **Chaperoni** | - | - | **Hsc70** |
 
 ---
 
-## 2. Esempio di Autofagia Selettiva: La Mitofagia
+## 2. Dinamica dei Microtubuli: Instabilità Dinamica
 
-La **Mitofagia** è la macroautofagia selettiva dei [[Mitocondri]]. È un meccanismo di controllo qualità essenziale per rimuovere i mitocondri danneggiati (es. con basso potenziale di membrana, $\Delta\psi$) che produrrebbero specie reattive dell'ossigeno (ROS) tossiche.
+I microtubuli (specialmente quelli citoplasmatici) non sono statici. Esistono in uno stato di **instabilità dinamica**, alternando rapidamente fasi di crescita (polimerizzazione) e di accorciamento (depolimerizzazione).
 
-* **Meccanismo (Via PINK1/Parkin):**
-    1.  **Segnale di Danno:** In un mitocondrio *sano*, la chinasi **PINK1** viene continuamente importata nella membrana interna e degradata.
-    2.  Quando un mitocondrio è *danneggiato* (e perde il suo potenziale di membrana $\Delta\psi$), l'importazione di PINK1 si blocca.
-    3.  **Accumulo:** PINK1 si accumula sulla **membrana mitocondriale esterna (MME)**.
-    4.  **Reclutamento:** PINK1 (accumulata) recluta l'E3 ubiquitina ligasi **Parkin** (o *Parkina*), che normalmente è citosolica.
-    5.  **Attivazione:** PINK1 attiva Parkin fosforilandola (e fosforilando molecole di ubiquitina).
-    6.  **Marcatura (Ubiquitinazione):** Parkin (ora attiva) "etichetta" massicciamente le proteine della MME con catene di **[[Ubiquitinazione]]**.
-    7.  **Riconoscimento:** Queste catene di ubiquitina vengono riconosciute da **Recettori di Autofagia** (es. *p62/Sequestosome 1*).
-    8.  **Aggancio:** I recettori (come p62) legano sia l'ubiquitina sul mitocondrio sia la proteina **LC3** sulla membrana del fagoforo in formazione.
-    9.  **Degradazione:** Questo "ponte" assicura che il mitocondrio danneggiato venga selettivamente inglobato dall'autofagosoma e degradato.
+* **Polimerizzazione (Crescita):**
+    * Avviene preferenzialmente all'**estremità Più ($+$)**.
+    * I dimeri di **Tubulina-$GTP$** (sia $\alpha$ che $\beta$) si legano all'estremità in crescita.
+    * Questo crea un **"Cappuccio di GTP" (GTP cap)** all'estremità $+$. I dimeri $GTP$-legati hanno un'alta affinità tra loro e formano un protofilamento dritto e stabile.
+
+* **Depolimerizzazione (Accorciamento o "Catastrofe"):**
+    1.  Dopo un po' di tempo, la $\beta$-tubulina (già incorporata nel polimero) idrolizza il suo $GTP \rightarrow GDP$.
+    2.  I dimeri di **Tubulina-$GDP$** hanno una conformazione diversa, più curva, e una *bassa affinità* l'uno per l'altro.
+    3.  Se l'aggiunta di nuovi dimeri $GTP$-legati rallenta (es. per bassa concentrazione di tubulina libera), l'idrolisi "raggiunge" l'estremità.
+    4.  L'estremità $+$ perde il suo "Cappuccio di $GTP$". I protofilamenti $GDP$-legati (instabili) si "sfrangiano" e si disassemblano rapidamente.
+    5.  Il rilascio di dimeri Tubulina-$GDP$ nel citosol (dove il $GDP$ viene scambiato con $GTP$) li ricarica per un nuovo ciclo di polimerizzazione.
+
+Questo ciclo $GTP \leftrightarrow GDP$ permette alla cellula di riorganizzare rapidamente il suo citoscheletro (es. per formare il fuso mitotico).
+
+---
+
+## 3. Centri di Organizzazione (MTOC)
+
+I microtubuli non si formano spontaneamente nel citosol, ma vengono "nucleati" (cioè la loro formazione viene innescata) in siti specifici chiamati **MTOC (MicroTubule Organizing Centers)**.
+
+* **Il Centrosoma:**
+    * Nelle cellule animali, il MTOC principale è il **Centrosoma**, situato vicino al [[Nucleo]].
+    * È composto da:
+        1.  **Due Centrioli:** Strutture cilindriche (fatte di 9 triplette di microtubuli) disposte perpendicolarmente tra loro. I centrioli non nucleano direttamente, ma organizzano la matrice.
+        2.  **Materiale Pericentriolare (PCM):** Una "nuvola" amorfa che circonda i centrioli. È la vera fabbrica di microtubuli.
+* **Il Complesso $\gamma$-TuRC:**
+    * All'interno del PCM si trova la **$\gamma$-tubulina** (gamma-tubulina).
+    * Diverse molecole di $\gamma$-tubulina si assemblano con altre proteine a formare il **Complesso ad Anello della $\gamma$-Tubulina ($\gamma$-TuRC)**.
+    * Questo anello agisce come una *matrice* (template) perfetta che mima l'estremità Meno.
+    * **Nucleazione:** Il $\gamma$-TuRC nuclea la crescita del microtubulo (legando l'estremità **Meno, $-$**) e permette l'allungamento solo dall'estremità **Più, $+$**, che si proietta verso la periferia della cellula.
 
 
 
 ---
 
-## 3. Conseguenze delle Alterazioni della Via Autofagica
+## 4. Proteine Associate ai Microtubuli (MAPs)
 
-Un'autofagia difettosa (troppo bassa o eccessiva) è implicata in una vasta gamma di patologie umane, poiché porta all'accumulo di "spazzatura" cellulare (aggregati proteici, organelli disfunzionali).
+La stabilità e la funzione dei microtubuli sono regolate dalle MAPs.
 
-* **Malattie Neurodegenerative:**
-    * **Causa:** I neuroni sono cellule *post-mitotiche* (non si dividono) e sono estremamente longeve. Non possono diluire i danni cellulari attraverso la divisione e dipendono criticamente dall'autofagia per la pulizia.
-    * **Morbo di Parkinson:** Spesso associato a mutazioni nei geni **PINK1** o **Parkin**. La mitofagia fallisce, portando all'accumulo di mitocondri danneggiati nei neuroni dopaminergici, stress ossidativo e morte cellulare.
-    * **Morbo di Alzheimer:** L'autofagia è coinvolta nella clearance sia della proteina Tau anomala sia dei peptidi Amiloide-$\beta$ (A$\beta$). Un suo difetto contribuisce all'accumulo di placche e grovigli.
-    * **Morbo di Huntington:** La proteina Huntingtina mutata (mHtt) si aggrega e "sequestra" componenti chiave della via autofagica, bloccandola.
+### 4.1 MAP Non Motrici (Stabilizzatrici)
+Queste proteine si legano lateralmente ai microtubuli per modularne la stabilità e l'organizzazione.
+* **Funzione:** Prevengono la depolimerizzazione, aumentano la stabilità e controllano la spaziatura tra i microtubuli.
+* **Esempi:**
+    * **Tau:** Abbondante negli assoni (e in misura minore nei dendriti). Stabilizza i microtubuli assonali. L'iperfosforilazione e l'aggregazione di Tau (che si stacca dai microtubuli) è una delle cause principali dell'Alzheimer (formando i *grovigli neurofibrillari*).
+    * **MAP2:** Principalmente nei dendriti. Crea fasci di microtubuli più spaziati (rispetto a Tau).
+    * **MAP4:** Trovata nella maggior parte delle cellule non neuronali.
 
-* **Cancro:**
-    * Il ruolo è duale. Nelle fasi iniziali, l'autofagia agisce come **soppressore tumorale** (rimuove organelli danneggiati, previene l'instabilità genomica).
-    * Nelle fasi avanzate, i tumori (spesso in condizioni di ipossia e scarsità di nutrienti) possono "dirottare" l'autofagia a loro vantaggio, usandola per **sopravvivere** allo stress e resistere alla chemioterapia.
+### 4.2 MAP Motrici (Motori Molecolari)
+Sono enzimi ($ATP$asi) che usano l'energia dell'idrolisi dell'**$ATP$** per "camminare" lungo i microtubuli, trasportando un "cargo" (vescicole, organelli, cromosomi).
 
-* **Malattie Infettive e Immunità:**
-    * L'autofagia (spesso chiamata *xenofagia*) è un meccanismo di difesa innata per catturare e degradare patogeni intracellulari (batteri, virus).
-    * Un'autofagia difettosa (es. nei macrofagi) può compromettere la capacità di eliminare infezioni (es. *B. cepacia* nella [[Fibrosi Cistica]]).
+* **Chinesine (Kinesins):**
+    * **Struttura:** Due teste globulari (motore, legano $ATP$ e microtubulo) e una coda (lega il cargo).
+    * **Direzione:** Si muovono (quasi tutte) verso l'**estremità Più ($+$)**.
+    * **Funzione:** Trasporto **anterogrado** (dal centro/[[Nucleo]] verso la periferia/membrana plasmatica). Es. trasporto di vescicole sinaptiche lungo l'assone.
 
-* **Invecchiamento (Aging):**
-    * L'efficienza di tutte le vie autofagiche (soprattutto CMA e macroautofagia) **declina con l'età**.
-    * Questo declino porta all'accumulo di danni (proteine aggregate, mitocondri disfunzionali, lipofuscina), che è un *hallmark* (caratteristica fondamentale) dell'invecchiamento cellulare e contribuisce alle malattie legate all'età.
+* **Dineine (Dyneins):**
+    * **Struttura:** Motore molto grande e complesso (basato su un anello AAA+), con uno "stelo" (stalk) che lega il microtubulo e una coda che lega il cargo (spesso tramite un adattatore come la *Dinactina*).
+    * **Direzione:** Si muovono verso l'**estremità Meno ($-$)**.
+    * **Funzione:** Trasporto **retrogrado** (dalla periferia verso il centro/[[Nucleo]]). Es. ritorno di vescicole endocitiche, posizionamento del [[Apparato di Golgi]].
+    * **Tipi:**
+        1.  **Dineina Citoplasmatica:** Responsabile di questo trasporto.
+        2.  **Dineina Assonemale:** Trovata in ciglia e flagelli.
+
+
+
+* **Esempio di Alterazione (Dineina Citoplasmatica):**
+    Mutazioni nel gene della dineina citoplasmatica (es. *DYNC1H1*) sono collegate a gravi disordini dello sviluppo neurologico. La dineina è cruciale per la migrazione dei neuroni durante lo sviluppo cerebrale (tira il nucleo verso l'estremità Più). Un suo difetto causa malformazioni corticali, poiché i neuroni non riescono a raggiungere la loro posizione corretta.
+
+---
+
+## 5. Ciglia e Flagelli
+
+Sono appendici mobili, specializzate nel movimento della cellula (flagelli, es. spermatozoi) o nel muovere fluido sulla superficie cellulare (ciglia, es. epitelio respiratorio).
+
+* **Struttura (Assonema):**
+    * Il loro "scheletro" interno è un microtubulo altamente organizzato chiamato **Assonema**.
+    * È nucleato da un **Corpo Basale** (strutturalmente identico a un centriolo: 9 triplette di microtubuli).
+    * L'assonema ha una caratteristica struttura **"9 + 2"**:
+        * **9 doppiette** di microtubuli periferiche (una doppietta è un microtubulo A completo, 13 protofilamenti, fuso a un microtubulo B incompleto, 10 protofilamenti).
+        * **2 microtubuli** singoli centrali (coppia centrale).
+* **Meccanismo del Movimento:**
+    * Il movimento *non* è generato dal corpo basale, ma dalla **Dineina Assonemale**.
+    * Le teste motrici della dineina sono ancorate permanentemente al microtubulo A di una doppietta.
+    * Queste teste "camminano" ($ATP$-dipendenti) verso l'estremità Meno del microtubulo B della doppietta *adiacente*.
+    * **Peculiarità:** Poiché le doppiette sono collegate tra loro da ponti proteici (es. *Nexina*), questo "scorrimento" (sliding) è impedito e viene convertito in un **"piegamento" (bending)**.
+    * L'attivazione coordinata e asimmetrica delle dineine lungo l'assonema genera il battito ondulatorio.
