@@ -1,5 +1,3 @@
-# Regolazione Fenotipica e Imprinting
-
 Questa nota esplora come l'espressione di un genotipo possa essere modulata, portando a variazioni fenotipiche non spiegabili dalla sola genetica mendeliana, e introduce il concetto di ereditarietà epigenetica parentale.
 
 ---
@@ -16,8 +14,6 @@ La penetranza indica la percentuale di individui che, possedendo un determinato 
 
 **Fattori:** È influenzata da interazioni con altri geni (background genetico) e da fattori ambientali.
 
-[Immagine di penetranza incompleta]
-
 ### Espressività
 L'espressività descrive il grado o l'intensità con cui un fenotipo (es. una malattia) si manifesta in un individuo.
 
@@ -25,8 +21,6 @@ L'espressività descrive il grado o l'intensità con cui un fenotipo (es. una ma
 * **Espressività Variabile:** (Molto comune) Gli individui con lo stesso genotipo mostrano un'ampia gamma di manifestazioni fenotipiche, da lievi a molto gravi.
 
 **Esempio:** Nella Neurofibromatosi di tipo 1 (NF1), la penetranza è completa (tutti la manifestano) ma l'espressività è altamente variabile (alcuni hanno solo macchie caffè-latte, altri tumori gravi).
-
-[Immagine di espressività variabile]
 
 ---
 
