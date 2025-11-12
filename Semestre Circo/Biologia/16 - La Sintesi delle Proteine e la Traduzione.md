@@ -1,5 +1,3 @@
-# La Sintesi delle Proteine: La Traduzione
-
 La **[[Traduzione]]** è il processo cellulare attraverso cui l'informazione genetica (contenuta in una sequenza di [[mRNA]]) viene "tradotta" nella sequenza di amminoacidi che compone una [[Proteina]]. Questo processo avviene nel citoplasma ad opera di complessi macromolecolari chiamati **[[Ribosomi]]**.
 
 ## Il Codice Genetico
