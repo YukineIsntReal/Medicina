@@ -1,5 +1,3 @@
-# La Maturazione delle Proteine: Il Ripiegamento (Folding)
-
 La sintesi sul [[Ribosoma]] produce una catena polipeptidica lineare. Per diventare biologicamente attiva, questa catena deve assumere una specifica e complessa conformazione tridimensionale (3D), chiamata **struttura nativa**. Questo processo è il **ripiegamento proteico** (o *protein folding*).
 
 ## L'Importanza del Corretto Ripiegamento
