@@ -1,5 +1,3 @@
-# Il Citoscheletro: I Microtubuli
-
 I **Microtubuli** sono i componenti più grandi e rigidi del citoscheletro. Sono cilindri cavi e dinamici che agiscono come impalcatura strutturale, come "binari" per il trasporto intracellulare e come motore per la divisione cellulare e la motilità.
 
 ---
@@ -12,12 +10,7 @@ I **Microtubuli** sono i componenti più grandi e rigidi del citoscheletro. Sono
     * La $\beta$-tubulina lega una molecola di **$GTP$** che può essere idrolizzata a **$GDP$** (ruolo regolatorio).
 * **Protofilamento:** I dimeri ($\alpha\beta$) si associano "testa-coda" per formare un **protofilamento** lineare. Questo protofilamento ha una polarità intrinseca: un'estremità espone $\alpha$-tubulina (**estremità Meno, $-$**) e l'altra espone $\beta$-tubulina (**estremità Più, $+$**).
 * **Microtubulo:** Tipicamente **13 protofilamenti** si associano lateralmente per formare un tubo cavo con un diametro di $\approx$ 25 nm.
-
-
-
-[Image of microtubule structure from tubulin dimers]
-
-
+  
 ---
 
 ## 2. Dinamica dei Microtubuli: Instabilità Dinamica
