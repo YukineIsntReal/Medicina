@@ -1,5 +1,3 @@
-# Cariotipo Umano e Modalità di Ereditarietà
-
 Questa nota descrive la struttura dei cromosomi umani, l'analisi del cariotipo per identificare alterazioni, e i principali modelli con cui i caratteri (e le malattie) vengono trasmessi attraverso le generazioni.
 
 ---
@@ -31,9 +29,6 @@ Le alterazioni possono essere numeriche o strutturali.
 * **Aneuploidia:** Presenza di un numero anomalo di un singolo cromosoma (di solito dovuta a non-disgiunzione meiotica).
     * **Trisomia:** Un cromosoma in più ($2n+1$). Esempio: **Trisomia 21** (Sindrome di Down), $47,XX,+21$ o $47,XY,+21$.
     * **Monosomia:** Un cromosoma in meno ($2n-1$). (Es. Sindrome di Turner, $45,X0$).
-
-
-[Image of Karyotype Trisomy 21]
 
 * **Poliploidia:** Presenza di un intero assetto cromosomico in più (non vitale nell'uomo se completa).
     * **Triploidia:** ($3n$)
