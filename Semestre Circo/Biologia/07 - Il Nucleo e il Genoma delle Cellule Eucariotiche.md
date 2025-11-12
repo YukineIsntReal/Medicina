@@ -1,5 +1,3 @@
-# Il Nucleo e il Genoma delle Cellule Eucariotiche
-
 Il **nucleo** è l'organello distintivo della [[Cellula Eucariotica]], che racchiude la quasi totalità del materiale genetico (genoma). Il genoma eucariotico è molto più grande e complesso di quello procariotico ed è organizzato in strutture multiple e lineari chiamate **cromosomi**.
 
 ---
@@ -17,7 +15,6 @@ Ogni cromosoma è costituito da una singola, lunghissima molecola di **DNA** ass
 Il **cariotipo** rappresenta l'assetto cromosomico completo di una specie, o di un individuo, ordinato in base alla dimensione, alla forma e alla posizione del centromero.
 
 Nell'essere umano (Homo sapiens), il cariotipo è costituito da **46 cromosomi**.
-[Immagine del cariotipo umano]
 
 Questi sono organizzati in **23 coppie**:
 1.  **22 coppie di autosomi**: Cromosomi non sessuali, numerati da 1 (il più grande) a 22 (il più piccolo).
@@ -49,8 +46,6 @@ Affinché un cromosoma lineare sia stabile e possa essere replicato e trasmesso 
 1.  **Origini di Replicazione (ORI)**: Punti specifici lungo il DNA dove inizia la [[Replicazione del DNA]]. I cromosomi eucariotici, data la loro dimensione, ne hanno molteplici.
 2.  **Un Centromero**: Una regione di DNA specializzata che funge da sito di attacco per il fuso mitotico. È essenziale per la corretta segregazione dei cromosomi durante la divisione cellulare.
 3.  **Due Telomeri**: Le estremità fisiche del cromosoma lineare.
-
-[Immagine della struttura del cromosoma eucariotico]
 
 ---
 
