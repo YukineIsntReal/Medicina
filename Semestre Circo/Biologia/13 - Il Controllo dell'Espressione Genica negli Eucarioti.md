@@ -1,5 +1,3 @@
-# Il Controllo dell'Espressione Genica negli Eucarioti
-
 Negli [[Eucarioti]], l'espressione genica è regolata a molteplici livelli, dal [[DNA]] impacchettato nella [[Cromatina]] fino alla degradazione della proteina finale. Questo controllo multistadio permette alla cellula di rispondere in modo fine e specifico a segnali interni ed esterni, ed è alla base del differenziamento cellulare.
 
 I principali livelli di controllo sono:
