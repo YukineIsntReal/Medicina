@@ -53,20 +53,12 @@ La natura antiparallela del DNA ($5'-3'$ e $3'-5'$) e il fatto che le polimerasi
     * È il filamento sintetizzato sullo stampo $3' \to 5'$.
     * La sua sintesi è **continua**, poiché la polimerasi segue la stessa direzione di apertura della forcella.
     * Richiede un solo primer iniziale.
-    * 
-
-[Image of DNA leading strand synthesis]
-
 
 2.  **Filamento Ritardato (Lagging strand)**:
     * È il filamento sintetizzato sullo stampo $5' \to 3'$.
     * La polimerasi deve muoversi in direzione *opposta* all'apertura della forcella.
     * La sintesi è **discontinua**: la primasi sintetizza un nuovo primer man mano che la forcella si apre, e la polimerasi sintetizza piccoli frammenti all'indietro.
     * Questi frammenti sono chiamati **Frammenti di Okazaki** (lunghi $1000-2000$ $bp$ nei procarioti, $100-200$ $bp$ negli eucarioti).
-    * 
-
-[Image of DNA lagging strand synthesis]
-
 
 ## Rimozione dell'RNA e DNA Ligasi
 
