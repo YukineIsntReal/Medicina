@@ -1,5 +1,3 @@
-# Il Genoma Umano
-
 Il **genoma umano** è l'intero set di istruzioni genetiche (l'intero patrimonio di [[DNA]]) trovato in una cellula umana. Negli esseri umani (eucarioti diploidi), questo include il DNA contenuto nel nucleo (organizzato in [[Cromosomi]]) e il DNA presente nei mitocondri ([[mtDNA]]).
 
 Il genoma nucleare umano è composto da circa $3.2$ miliardi di paia di basi ($3.2 \times 10^9$ $bp$) ed è suddiviso in $23$ coppie di cromosomi ($22$ coppie di autosomi e $1$ coppia di cromosomi sessuali).
