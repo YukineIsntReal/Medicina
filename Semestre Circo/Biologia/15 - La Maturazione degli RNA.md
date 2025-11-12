@@ -1,5 +1,3 @@
-# La Maturazione degli RNA
-
 Nei [[Procarioti]], l'[[mRNA]] viene tradotto in proteina non appena viene trascritto (processi accoppiati). Negli [[Eucarioti]], il trascritto primario (chiamato **pre-mRNA** o *hnRNA*, RNA eterogeneo nucleare) deve subire una serie di modifiche complesse all'interno del nucleo prima di poter essere esportato nel citoplasma e tradotto. Questo processo è noto come **Maturazione (o Processamento) dell'RNA**.
 
 Questi passaggi sono fondamentali per la stabilità, il trasporto e la corretta traduzione dell'mRNA.
@@ -55,11 +53,6 @@ Non tutto lo splicing richiede lo spliceosoma. Esistono RNA (principalmente in o
 Questo è un meccanismo fondamentale di [[Regolazione Genica]]. Un singolo pre-mRNA contenente più esoni può essere processato in modi diversi.
 * **Processo**: A seconda del tipo cellulare o dello stimolo, specifici *fattori di splicing* (proteine) possono legarsi all'RNA e "mascherare" o "promuovere" l'uso di certi siti di splicing.
 * **Risultato**: Vengono inclusi o esclusi differenti esoni, generando dalla **stessa [[gene]]** diverse isoforme di mRNA maturo, che a loro volta codificheranno per **diverse [[Proteine]]** (isoforme proteiche), spesso con funzioni o localizzazioni distinte. È uno dei motivi principali della complessità eucariotica.
-
-
-
-[Image of alternative splicing mechanism]
-
 
 ## 5. Editing dell'RNA
 
