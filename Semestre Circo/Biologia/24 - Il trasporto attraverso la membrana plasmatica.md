@@ -1,11 +1,4 @@
-# Il trasporto attraverso la membrana plasmatica
-
 La membrana plasmatica, grazie alla sua natura semipermeabile (dovuta al doppio strato fosfolipidico), non permette il libero passaggio alla maggior parte delle molecole (soprattutto se polari o cariche). Il trasporto di sostanze è quindi finemente regolato da meccanismi che possono essere classificati in due grandi categorie: **Trasporto Passivo** e **Trasporto Attivo**.
-
-
-
-[Image of passive vs active transport types]
-
 
 ---
 
@@ -62,11 +55,6 @@ Utilizza *direttamente* l'energia dell'idrolisi dell'ATP. Le proteine coinvolte 
     3.  Controlla il volume cellulare (regolando l'osmolarità).
     4.  Crea il gradiente di $Na^+$ usato dal trasporto attivo secondario.
 
-
-
-[Image of sodium-potassium pump mechanism]
-
-
 #### Esempio: Trasportatori ABC (ATP-Binding Cassette)
 Una vasta famiglia di proteine di trasporto che utilizzano l'energia dell'idrolisi di due molecole di $ATP$ (legate a due "cassette" specifiche) per muovere una grande varietà di substrati attraverso la membrana (spesso verso l'esterno).
 * **Esempi:**
@@ -97,7 +85,6 @@ La diversa distribuzione di ioni (mantenuta dalle pompe) e la permeabilità sele
 
 ### 3.2 Il Potenziale d'Azione
 È un rapido, transitorio e "tutto-o-nulla" cambiamento del potenziale di membrana, usato come segnale elettrico nelle cellule eccitabili (neuroni, cellule muscolari) per la trasmissione di informazioni.
-
 Fasi principali (in un neurone):
 1.  **Stato a Riposo:** Potenziale a $-70mV$. Canali voltaggio-dipendenti ($Na^+$ e $K^+$) chiusi.
 2.  **Stimolo e Soglia:** Uno stimolo (es. sinaptico) causa una piccola depolarizzazione (potenziale meno negativo). Se la depolarizzazione raggiunge un **valore soglia** (es. $-55mV$), si innesca il potenziale d'azione.
