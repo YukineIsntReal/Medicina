@@ -1,7 +1,3 @@
-# 
-
-## Il Concetto di Gene
-
 Il concetto di **gene** si è evoluto nel tempo. Se un tempo era definito come l'unità ereditaria che determina un singolo carattere (approccio Mendeliano), la definizione molecolare moderna è più precisa.
 
 Un **gene** è una sequenza specifica di nucleotidi lungo una molecola di [[DNA]] (o [[RNA]] in alcuni virus) che funge da unità funzionale. Questa unità contiene le istruzioni per sintetizzare un prodotto funzionale, che può essere:
@@ -25,12 +21,7 @@ Nei [[Procarioti]], i geni che codificano per proteine coinvolte in una stessa v
     * **Operatore**: Sequenza regolativa (elemento *in cis*) dove si legano proteine regolatrici (repressori).
     * **Geni Strutturali**: Le sequenze codificanti per le varie proteine (es. *lacZ, lacY, lacA*).
 * **Caratteristiche**: I geni procariotici sono quasi interamente codificanti, privi di introni. La trascrizione e la traduzione sono accoppiate (avvengono simultaneamente).
-
-
-
-[Image of prokaryotic operon structure]
-
-
+  
 ### Il Gene Eucariotico (Monocistronico)
 
 Negli [[Eucarioti]], i geni sono strutturalmente più complessi e la loro regolazione è più fine.
