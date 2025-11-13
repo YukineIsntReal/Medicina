@@ -1,5 +1,3 @@
-# Lo Stato Solido
-
 Lo **stato solido** è uno degli stati fondamentali della materia, caratterizzato da particelle (atomi, molecole o ioni) disposte in posizioni fisse e definite nello spazio, vibrate attorno a queste posizioni di equilibrio. Questo conferisce ai solidi una **forma** e un **volume** propri.
 
 I solidi possono essere classificati in due categorie principali:
