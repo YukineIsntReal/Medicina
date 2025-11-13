@@ -1,5 +1,3 @@
-# Il Ciclo Cellulare
-
 Il **ciclo cellulare** rappresenta la sequenza ordinata di eventi attraverso cui una cellula eucariotica cresce, duplica il proprio materiale genetico (DNA) e si divide in due cellule figlie geneticamente identiche (salvo errori). È un processo fondamentale per la crescita, il rinnovo tissutale e la riproduzione.
 
 ## Le Fasi del Ciclo Cellulare
