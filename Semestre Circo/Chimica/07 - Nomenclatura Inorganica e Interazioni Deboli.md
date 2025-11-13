@@ -1,5 +1,3 @@
-# 
-
 ## Nomenclatura dei Composti Inorganici
 
 Comprendere la nomenclatura è essenziale per identificare i composti di base in medicina e biologia, come sali minerali, acidi e basi che compongono i sistemi tampone.
