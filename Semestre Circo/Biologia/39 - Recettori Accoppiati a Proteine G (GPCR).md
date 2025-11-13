@@ -1,5 +1,3 @@
-# Recettori Accoppiati a Proteine G (GPCR)
-
 I **Recettori Accoppiati a Proteine G** (GPCRs) costituiscono la più grande superfamiglia di recettori di superficie.
 
 * **Struttura:** Sono caratterizzati da una singola catena polipeptidica che attraversa la membrana plasmatica **sette volte** (recettori a 7 domini transmembrana o 7-TM).
