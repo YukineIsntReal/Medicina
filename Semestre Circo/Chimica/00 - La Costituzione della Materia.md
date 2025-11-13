@@ -1,5 +1,3 @@
-# La Costituzione della Materia
-
 Tutta la materia che osserviamo, sia inerte che vivente, è composta da **atomi**. La materia è definita come qualsiasi cosa che possiede una massa e occupa uno spazio.
 
 ## Fondamenti della Teoria Atomica
