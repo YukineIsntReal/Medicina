@@ -1,5 +1,3 @@
-# Il Fuso Mitotico e la Dinamica della Mitosi
-
 La formazione del **fuso mitotico** è l'evento morfo-strutturale chiave della Mitosi. È un'impalcatura bipolare e dinamica, composta da **microtubuli (MT)** e proteine associate (tra cui i meccanoenzimi), che orchestra la segregazione dei cromosomi.
 
 ## Formazione e Componenti del Fuso Mitotico
