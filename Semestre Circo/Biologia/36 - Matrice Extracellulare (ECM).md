@@ -83,7 +83,7 @@ La **Meccanotrasduzione** è il processo mediante cui le cellule convertono stim
     * La cellula "tira" sull'ECM attraverso questa connessione (grazie alla contrattilità del citoscheletro di actomiosina).
     * La forza di resistenza percepita dall'ECM (es. una matrice più rigida) viene trasmessa attraverso le integrine al citoscheletro.
 
-3.  **Segnalazione Biochmica:**
+3.  **Segnalazione Biochimica:**
     * L'aggregazione delle integrine e la tensione meccanica attivano enzimi localizzati nelle FAs, in particolare la **FAK** (Focal Adhesion Kinase, Chinasi delle Adesioni Focali).
     * L'attivazione della FAK innesca cascate di segnalazione intracellulare (es. via delle MAPK) che modulano l'espressione genica, influenzando la proliferazione, la sopravvivenza e la migrazione cellulare.
 
