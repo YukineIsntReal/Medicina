@@ -1,5 +1,3 @@
-# Il Sistema Periodico degli Elementi
-
 Il **Sistema Periodico** (o Tavola Periodica) è l'organizzazione di tutti gli elementi chimici conosciuti in base al loro **numero atomico ($Z$) crescente** e alle loro proprietà chimiche.
 
 La struttura moderna (proposta da Mendeleev e perfezionata da Moseley) organizza gli elementi in:
