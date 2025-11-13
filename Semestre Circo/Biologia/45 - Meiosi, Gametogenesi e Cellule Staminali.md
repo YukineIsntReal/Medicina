@@ -66,16 +66,16 @@ La meiosi genera **variabilità genetica** attraverso due meccanismi:
 
 ## Differenze tra Mitosi e Meiosi
 
-| Caratteristica | [[Mitosi]] | Meiosi |
-| :--- | :--- | :--- |
-| **Scopo** | Crescita, riparo, riproduzione asessuata | Produzione di gameti (riproduzione sessuata) |
-| **Cellule Coinvolte** | Somatiche (e germinali per proliferare) | Solo linea germinale |
-| **N° Divisioni** | 1 | 2 (Meiosi I e Meiosi II) |
-| **Fase S** | 1 (prima della mitosi) | 1 (solo prima della Meiosi I) |
-| **Sinapsi e Crossing Over**| No | Sì (Profase I) |
-| **Separazione in Anafase** | **Cromatidi fratelli** (in Anafase) | **Cromosomi omologhi** (in Anafase I) <br> **Cromatidi fratelli** (in Anafase II) |
-| **Ploidia Risultante** | 2 cellule figlie **diploidi ($2n$)** | 4 cellule figlie **aploidi ($n$)** |
-| **Identità Genetica** | Cellule figlie identiche alla madre | Cellule figlie geneticamente diverse |
+| Caratteristica              | [[Mitosi]]                               | Meiosi                                                                            |
+| :-------------------------- | :--------------------------------------- | :-------------------------------------------------------------------------------- |
+| **Scopo**                   | Crescita, riparo, riproduzione asessuata | Produzione di gameti (riproduzione sessuata)                                      |
+| **Cellule Coinvolte**       | Somatiche (e germinali per proliferare)  | Solo linea germinale                                                              |
+| **N° Divisioni**            | 1                                        | 2 (Meiosi I e Meiosi II)                                                          |
+| **Fase S**                  | 1 (prima della mitosi)                   | 1 (solo prima della Meiosi I)                                                     |
+| **Sinapsi e Crossing Over** | No                                       | Sì (Profase I)                                                                    |
+| **Separazione in Anafase**  | **Cromatidi fratelli** (in Anafase)      | **Cromosomi omologhi** (in Anafase I) <br> **Cromatidi fratelli** (in Anafase II) |
+| **Ploidia Risultante**      | 2 cellule figlie **diploidi ($2n$)**     | 4 cellule figlie **aploidi ($n$)**                                                |
+| **Identità Genetica**       | Cellule figlie identiche alla madre      | Cellule figlie geneticamente diverse                                              |
 
 ---
 
