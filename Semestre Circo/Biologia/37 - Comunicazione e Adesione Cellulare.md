@@ -1,5 +1,3 @@
-# Comunicazione e Adesione Cellulare
-
 La formazione di tessuti e organi complessi richiede che le cellule siano in grado di aderire selettivamente tra loro e con la matrice extracellulare (ECM). Questo processo è mediato da specifiche proteine di membrana e da strutture giunzionali specializzate.
 
 ---
