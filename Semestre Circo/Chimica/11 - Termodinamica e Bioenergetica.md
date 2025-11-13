@@ -1,5 +1,3 @@
-# Termodinamica e Bioenergetica
-
 La **termodinamica** è la branca della fisica che studia gli scambi di energia (come calore e lavoro) tra un sistema e l'ambiente. In biologia e medicina, la **bioenergetica** applica questi principi per capire come i sistemi viventi estraggono, trasformano e utilizzano l'energia per vivere, crescere e compiere lavoro.
 
 ---
