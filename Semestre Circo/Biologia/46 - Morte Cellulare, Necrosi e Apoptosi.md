@@ -1,5 +1,3 @@
-# Morte Cellulare: Necrosi e Apoptosi
-
 La morte di una cellula può avvenire secondo due modalità principali, con cause, morfologie e conseguenze biologiche radicalmente diverse: la necrosi e l'apoptosi.
 
 ## 1. Necrosi
