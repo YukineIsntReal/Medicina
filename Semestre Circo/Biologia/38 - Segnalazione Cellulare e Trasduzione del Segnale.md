@@ -1,5 +1,3 @@
-# Segnalazione Cellulare e Trasduzione del Segnale
-
 La segnalazione cellulare è il processo fondamentale attraverso cui le cellule comunicano tra loro e rispondono agli stimoli ambientali. Questo sistema di comunicazione è essenziale per coordinare lo sviluppo, la funzione dei tessuti, l'omeostasi e la risposta a stimoli esterni.
 
 ---
