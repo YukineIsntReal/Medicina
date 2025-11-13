@@ -1,5 +1,3 @@
-# Completamento della Mitosi e Citodieresi
-
 La transizione dall'allineamento dei cromosomi (metafase) alla loro effettiva separazione (anafase) e alla successiva divisione cellulare è un punto di non ritorno, governato da un complesso proteico chiave: l'APC/C.
 
 ## Il Complesso APC/C (Anaphase-Promoting Complex/Cyclosome)
