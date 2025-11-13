@@ -1,6 +1,3 @@
-
-## Proprietà Magnetiche del Nucleo (Cenni)
-
 Alcuni nuclei atomici possiedono una proprietà quantistica intrinseca chiamata **spin nucleare**. Si può immaginare lo spin (anche se è una semplificazione) come il nucleo che "ruota" sul proprio asse.
 
 Dato che il nucleo è carico positivamente (a causa dei protoni), questa rotazione genera un piccolo campo magnetico, detto **momento di dipolo magnetico**. In pratica, il nucleo si comporta come una minuscola calamita.
