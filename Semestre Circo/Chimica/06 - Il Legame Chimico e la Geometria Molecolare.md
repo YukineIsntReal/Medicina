@@ -1,5 +1,3 @@
-# Il Legame Chimico e la Geometria Molecolare
-
 Gli atomi si legano tra loro per raggiungere una configurazione elettronica più stabile, solitamente aderendo alla [[Il Sistema Periodico degli Elementi#la-regola-dellottetto|Regola dell'Ottetto]] (o del duetto per $H$). Un **legame chimico** è la forza attrattiva che tiene uniti gli atomi in una molecola o in un composto ionico.
 
 ## Teoria del Legame di Valenza (VB)
