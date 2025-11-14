@@ -1,5 +1,3 @@
-# Definizioni delle Reazioni Chimiche
-
 Le reazioni chimiche sono processi che portano alla trasformazione di alcune sostanze (reagenti) in altre sostanze (prodotti), attraverso la rottura e la formazione di legami chimici.
 
 ## Tipi Principali di Reazioni Chimiche
