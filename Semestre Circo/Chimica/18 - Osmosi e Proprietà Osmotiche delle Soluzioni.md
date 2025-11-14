@@ -1,4 +1,3 @@
-# Osmosi e Proprietà Osmotiche delle Soluzioni
 
 ---
 
@@ -108,6 +107,11 @@ Confrontiamo una soluzione (Sol.) con l'interno di una cellula (es. globulo ross
 * **Effetto:** L'acqua si muove per osmosi **dentro** la cellula (seguendo il gradiente, verso dove ci sono più soluti).
 * **Conseguenza:** La cellula si gonfia e può scoppiare (**lisi** o emolisi per i globuli rossi).
 * **Esempio Medico:** Acqua distillata (l'esempio estremo), o $NaCl$ $0.45\%$ (mezza fisiologica).
+
+
+
+[Image of red blood cell in hypotonic solution (lysis)]
+
 
 ### C. Soluzione Ipertonica (Iper = sopra)
 
