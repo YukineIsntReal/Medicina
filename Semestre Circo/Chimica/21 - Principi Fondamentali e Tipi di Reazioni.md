@@ -1,5 +1,6 @@
 Questa nota espande le definizioni di base delle reazioni, introducendo i principi di conservazione, la reversibilità e il bilanciamento, e approfondendo reazioni cruciali come neutralizzazione, precipitazione e redox.
 
+---
 ## 1. Principi di Conservazione
 
 ### Conservazione della Massa
