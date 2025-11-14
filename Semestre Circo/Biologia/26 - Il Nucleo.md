@@ -6,7 +6,7 @@ Il **nucleo** è l'organello distintivo della cellula eucariotica. Contiene la q
 
 ### 1.1 L'Involucro Nucleare
 Non è una singola membrana, ma un **doppio bilayer fosfolipidico** (due membrane concentriche):
-1.  **Membrana Esterna:** È in continuità fisica e funzionale con il [[!|Reticolo Endoplasmatico]] (RE). La sua superficie citosolica è spesso costellata di [[Ribosomi]].
+1.  **Membrana Esterna:** È in continuità fisica e funzionale con il [[Reticolo Endoplasmatico]] (RE). La sua superficie citosolica è spesso costellata di [[Ribosomi]].
 2.  **Membrana Interna:** Possiede proteine di legame uniche (es. LBR, Emerina) che ancorano la **lamina nucleare** e la cromatina periferica (eterocromatina).
 3.  **Spazio Perinucleare:** Lo spazio tra le due membrane, in continuità con il lume del RE.
 
