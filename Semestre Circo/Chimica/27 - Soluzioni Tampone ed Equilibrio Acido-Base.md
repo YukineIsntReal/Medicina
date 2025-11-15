@@ -1,5 +1,3 @@
-# Soluzioni Tampone ed Equilibrio Acido-Base
-
 Una **soluzione tampone** è una soluzione acquosa che si oppone a variazioni significative di $pH$ in seguito all'aggiunta di moderate quantità di acidi forti o basi forti.
 
 Questa capacità è fondamentale per i sistemi biologici, dove la maggior parte dei processi enzimatici e fisiologici può avvenire solo in un intervallo di $pH$ estremamente ristretto.
