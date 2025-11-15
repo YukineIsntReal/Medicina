@@ -14,7 +14,7 @@ Questa nota espande i principi di base dell'equilibrio chimico, introducendo con
 Come visto in [[L'Equilibrio Chimico]], per una reazione generica all'equilibrio:
 $$aA + bB \rightleftharpoons cC + dD$$
 
-La **Legge di Azione di Massa** stabilisce che il rapporto tra il prodotto delle concentrazioni dei prodotti e il prodotto delle concentrazioni dei reagenti, ciascuno elevato al proprio coefficiente stoechiometrico, è una costante a una data temperatura. Questa è la **Costante di Equilibrio ($K_{eq}$)**.
+La **Legge di Azione di Massa** stabilisce che il rapporto tra il prodotto delle concentrazioni dei prodotti e il prodotto delle concentrazioni dei reagenti, ciascuno elevato al proprio coefficiente stechiometrico, è una costante a una data temperatura. Questa è la **Costante di Equilibrio ($K_{eq}$)**.
 
 $$K_{eq} = \frac{[C]^c [D]^d}{[A]^a [B]^b}$$
 
