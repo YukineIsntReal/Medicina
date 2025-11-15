@@ -1,5 +1,7 @@
 Questa nota espande i principi di base dell'equilibrio chimico, introducendo concetti quantitativi (Q, Kps), distinzioni (omogeneo/eterogeneo, stato stazionario) e applicazioni biologiche.
 
+---
+
 ## 1. Reazioni Reversibili ed Irreversibili
 
 * **Reazioni Reversibili:** Sono reazioni che possono procedere in entrambe le direzioni (diretta e inversa) e sono indicate dalla doppia freccia ($\rightleftharpoons$). Raggiungono uno stato di equilibrio dinamico. La maggior parte delle reazioni biologiche è reversibile.
