@@ -1,4 +1,3 @@
-# 
 L'urea è un composto organico di fondamentale importanza biologica, rappresentando il **prodotto terminale principale del catabolismo delle proteine** (e degli amminoacidi) negli organismi ureotelici, come gli esseri umani.
 
 ## Struttura Chimica
