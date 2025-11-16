@@ -1,8 +1,8 @@
 I **carboidrati** (o glucidi) sono una delle classi principali di macromolecole biologiche. Hanno formula generale $(C \cdot H_2O)_n$, da cui il nome "idrati di carbonio".
 Svolgono ruoli cruciali:
 * **Fonte energetica:** Principale "carburante" metabolico (es. Glucosio).
-* **Riserva energetica:** (es. [[Carboidrati#Glicogeno|Glicogeno]] negli animali, [[Carboidrati#Amido|Amido]] nelle piante).
-* **Ruolo strutturale:** (es. [[Carboidrati#Cellulosa|Cellulosa]] nelle piante, GAGs nella matrice extracellulare).
+* **Riserva energetica:** (es. [[59 - Carboidrati#Glicogeno|Glicogeno]] negli animali, [[59 - Carboidrati#Amido|Amido]] nelle piante).
+* **Ruolo strutturale:** (es. [[59 - Carboidrati#Cellulosa|Cellulosa]] nelle piante, GAGs nella matrice extracellulare).
 * **Segnalazione e Riconoscimento:** Componenti di glicoproteine e glicolipidi.
 
 ## Nomenclatura e Classificazione
@@ -117,7 +117,7 @@ Questo processo è chiamato **mutarotazione** e porta a un equilibrio stabile (p
 * **Amminozuccheri:** Un gruppo $-OH$ (di solito al $C_2$) è sostituito da un gruppo amminico ($-NH_2$).
     * **D-Glucosammina**
     * **D-Galattosammina**
-    * Spesso sono acetilati (es. N-Acetilglucosammina, NAG), componenti fondamentali dei [[Carboidrati#Glicosamminoglicani|GAGs]].
+    * Spesso sono acetilati (es. N-Acetilglucosammina, NAG), componenti fondamentali dei [[59 - Carboidrati#Glicosamminoglicani|GAGs]].
 * **Acidi Zuccherini (Ossidazione):**
     * Ossidazione $C_1$ (aldeide) $\to$ **Acido Aldonico** (es. Acido Gluconico).
     * Ossidazione $C_6$ (OH primario) $\to$ **Acido Uronico** (es. Acido Glucuronico).

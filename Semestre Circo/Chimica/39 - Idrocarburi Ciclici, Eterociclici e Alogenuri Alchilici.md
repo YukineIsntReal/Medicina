@@ -10,7 +10,7 @@ Possono essere:
 Sono composti **ciclici** in cui almeno un atomo all'interno dell'anello **non è carbonio**. Questo atomo è chiamato **eteroatomo**, e i più comuni sono **Azoto ($N$), Ossigeno ($O$) e Zolfo ($S$)**.
 
 Sono importantissimi in biologia e medicina. Possono essere:
-* **Non Aromatici (Saturi o Insaturi):** Es. Pirrolidina (anello a 5 con $N$), Tetraidrofurano (anello a 5 con $O$, usato come solvente), Pirano (anello a 6 con $O$, struttura base degli zuccheri [[Carboidrati|piranosi]] come il glucosio).
+* **Non Aromatici (Saturi o Insaturi):** Es. Pirrolidina (anello a 5 con $N$), Tetraidrofurano (anello a 5 con $O$, usato come solvente), Pirano (anello a 6 con $O$, struttura base degli zuccheri [[59 - Carboidrati|piranosi]] come il glucosio).
 * **Aromatici:** Sono anelli planari che rispettano le regole dell'aromaticità, con elettroni $\pi$ delocalizzati. Sono le fondamenta di moltissime molecole biologiche.
     * **Pirrolo ($N$), Furano ($O$), Tiofene ($S$):** Anelli a 5 membri. Il Pirrolo è parte dell'anello *porfirinico* (nell'eme dell'emoglobina).
     * **Piridina ($N$):** Anello a 6 membri (come il benzene con un $C$ sostituito da $N$).
