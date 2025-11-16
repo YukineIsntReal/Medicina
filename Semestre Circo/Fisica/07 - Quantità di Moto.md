@@ -1,5 +1,7 @@
 Il concetto di **quantità di moto** (o *momento lineare*) è fondamentale in fisica per descrivere lo "stato di moto" di un corpo in modo più completo rispetto alla sola velocità, includendo la sua inerzia (massa).
 
+---
+
 ## 1. Definizione di Quantità di Moto
 
 La **quantità di moto** $\vec{p}$ di un punto materiale è una grandezza vettoriale definita come il prodotto della sua massa $m$ per la sua velocità vettoriale $\vec{v}$:
