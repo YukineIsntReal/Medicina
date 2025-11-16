@@ -1,5 +1,3 @@
-# Chimica del Carbonio: Basi
-
 ## Proprietà del Carbonio
 
 L'atomo di carbonio ($C$) è l'elemento fondamentale della chimica organica e, di conseguenza, della vita. Le sue proprietà uniche gli permettono di formare la vasta e complessa gamma di molecole biologiche.
@@ -21,9 +19,7 @@ Per spiegare la geometria delle molecole organiche e la sua tetravalenza, si int
 * **Geometria:** I quattro orbitali si dispongono a **tetraedro**, con angoli di legame di circa **$109.5^\circ$**.
 * **Legami:** Forma **quattro legami singoli** (legami $\sigma$, sigma).
 * **Esempio:** Metano ($CH_4$), alcani, legami $C-C$ negli alcani.
-
-![[ibridazione_sp3.png]] (Ricorda di inserire un'immagine appropriata qui, se lo desideri)
-
+  
 ### Ibridazione $sp^2$ (Trigonale Planare)
 
 * **Formazione:** Mescolamento di un orbitale $s$ e due orbitali $p$ $\rightarrow$ **tre** orbitali ibridi $sp^2$. Rimane **un** orbitale $p$ "puro" (non ibridato), perpendicolare al piano degli ibridi.
@@ -32,8 +28,6 @@ Per spiegare la geometria delle molecole organiche e la sua tetravalenza, si int
     * I tre orbitali $sp^2$ formano 3 legami $\sigma$.
     * L'orbitale $p$ puro forma un legame $\pi$ (pi greco) con l'orbitale $p$ di un altro atomo (parte del doppio legame).
 * **Esempio:** Etene ($C_2H_4$), alcheni, composti carbonilici.
-
-![[ibridazione_sp2.png]]
 
 ### Ibridazione $sp$ (Lineare)
 
