@@ -1,5 +1,3 @@
-# Acidità e Basicità nei Composti Organici
-
 ## Definizioni di Acidi e Basi
 
 1.  **Teoria di Brønsted-Lowry (la più usata in organica):**
