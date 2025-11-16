@@ -1,6 +1,6 @@
-# Cinematica del Punto Materiale
-
 La **cinematica** è la branca della meccanica che descrive il moto dei corpi senza indagarne le cause (che sono invece oggetto della dinamica). Si concentra sulla descrizione della posizione, della velocità e dell'accelerazione di un punto materiale nel tempo.
+
+---
 
 ## 1. Posizione, Spostamento e Traiettoria
 
