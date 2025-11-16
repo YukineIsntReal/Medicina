@@ -1,4 +1,3 @@
-# Alcani e Cicloalcani
 
 Gli alcani e i cicloalcani sono la base degli [[Idrocarburi saturi ed insaturi#1. Idrocarburi Saturi|idrocarburi saturi]]. Sono composti unicamente da carbonio e idrogeno e presentano solo legami singoli $\sigma$. Tutti gli atomi di carbonio hanno [[Proprietà e ibridazione del carbonio. I gruppi funzionali. Rappresentazione dei composti carboniosi.#Ibridazione $sp^3$ (Tetraedrica)|ibridazione $sp^3$]].
 
@@ -9,7 +8,7 @@ Chiamati anche **paraffine** (da *parum affinis*, "poca affinità") a causa dell
 * **Struttura:** Catene lineari o ramificate. La geometria attorno a ogni $C$ è tetraedrica ($\approx 109.5^\circ$).
 
 ### Nomenclatura IUPAC
-Si segue la [[Nomenclatura IUPAC: Regole Generali]], con queste specificità:
+Si segue la [[Nomenclatura IUPAC, Regole Generali]], con queste specificità:
 1.  **Radice:** Si identifica la catena di $C$ **più lunga** (catena principale).
 2.  **Suffisso:** Il nome termina in **-ano**.
 3.  **Sostituenti:** Le ramificazioni (catene laterali) sono chiamate **gruppi alchilici**. Il loro nome si ottiene sostituendo il suffisso -ano dell'alcano corrispondente con **-ile** (es. $CH_3-$ Metile, $CH_3CH_2-$ Etile).
@@ -92,4 +91,4 @@ $$R-H + X_2 \xrightarrow{luce \ (h\nu)} R-X + H-X$$
         $R\cdot + R\cdot \rightarrow R-R$
         $R\cdot + X\cdot \rightarrow R-X$
 * **Selettività:** Se l'alcano ha $H$ diversi (primari $1^\circ$, secondari $2^\circ$, terziari $3^\circ$), la sostituzione non è casuale. Il radicale $X\cdot$ preferisce strappare l'idrogeno che porta alla formazione del radicale alchilico ($R\cdot$) più stabile.
-    * **Stabilità dei Radicali:** $3^\circ > 2^\circ > 1^\circ > \text{metile}$ (simile alla [[Rottura di un legame: omolitico ed eterolitico. Carbocationi e carboanioni. Stabilità dei carbocationi. Nucleofili ed elettrofili.#Stabilità dei Carbocationi|stabilità dei carbocationi]], stabilizzati per iperconiugazione).
+    * **Stabilità dei Radicali:** $3^\circ > 2^\circ > 1^\circ > \text{metile}$ (simile alla [[Rottura di un legame, omolitico ed eterolitico. Carbocationi e carboanioni. Stabilità dei carbocationi. Nucleofili ed elettrofili.#Stabilità dei Carbocationi|stabilità dei carbocationi]], stabilizzati per iperconiugazione).
