@@ -1,5 +1,3 @@
-# Lipidi
-
 I **lipidi** (o grassi) sono un gruppo eterogeneo di molecole biologiche definite dalla loro **insolubilità** in acqua (idrofobicità) e solubilità nei solventi organici apolari (es. cloroformio, etere).
 
 Svolgono funzioni biologiche vitali:
