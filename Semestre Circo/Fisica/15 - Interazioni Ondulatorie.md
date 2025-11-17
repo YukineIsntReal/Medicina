@@ -1,5 +1,3 @@
-# Interazioni Ondulatorie
-
 ## Principio di Sovrapposizione
 
 Quando due o più onde meccaniche si incontrano nello stesso punto di un mezzo, l'effetto risultante è determinato dal **Principio di Sovrapposizione**.
