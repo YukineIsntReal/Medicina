@@ -1,5 +1,3 @@
-# Conduttori e Dielettrici
-
 La materia risponde in modi molto diversi alla presenza di un campo elettrico $\vec{E}$. La distinzione principale si basa sulla mobilità delle cariche al loro interno.
 
 ## 1. Conduttori
