@@ -1,5 +1,3 @@
-# Capacità e Condensatori
-
 Un **condensatore** è un sistema costituito da due conduttori (chiamati *armature*) posti a breve distanza, separati da un materiale isolante (un [[Conduttori e Dielettrici#2. Dielettrici (Isolanti)|dielettrico]] o il vuoto).
 
 Il suo scopo è quello di **immagazzinare carica** e, di conseguenza, **energia potenziale elettrica**.
