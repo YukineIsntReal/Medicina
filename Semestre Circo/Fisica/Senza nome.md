@@ -1,90 +1,94 @@
-# Corrente Elettrica e Leggi di Ohm
+# Capacità e Condensatori
 
-Mentre in un [[Conduttori e Dielettrici#1. Conduttori|conduttore in equilibrio elettrostatico]] le cariche non si muovono e $V$ è costante, se applichiamo una **differenza di potenziale** ($\Delta V$) costante ai suoi estremi, le cariche libere si metteranno in moto, generando una **corrente elettrica**.
+Un **condensatore** è un sistema costituito da due conduttori (chiamati *armature*) posti a breve distanza, separati da un materiale isolante (un [[Conduttori e Dielettrici#2. Dielettrici (Isolanti)|dielettrico]] o il vuoto).
 
-## 1. Intensità di Corrente ($I$)
+Il suo scopo è quello di **immagazzinare carica** e, di conseguenza, **energia potenziale elettrica**.
 
-L'**intensità di corrente elettrica** ($I$) è definita come la quantità di carica netta ($\Delta Q$) che attraversa una sezione trasversale di un conduttore nell'intervallo di tempo ($\Delta t$).
+## 1. Capacità Elettrica ($C$)
 
-$I = \frac{\Delta Q}{\Delta t}$
+Se si applica una [[Potenziale Elettrico#3. Differenza di Potenziale (ΔV)|differenza di potenziale]] $\Delta V$ tra le due armature (es. collegandole a un generatore), una carica $+Q$ si accumulerà su un'armatura e una carica $-Q$ si accumulerà sull'altra (per [[Conduttori e Dielettrici#Induzione Elettrostatica|induzione]]).
 
-L'unità di misura nel SI è l'**Ampere** ($A$), definito come $1 A = 1 C/s$.
+Si definisce **capacità** ($C$) di un condensatore il rapporto (costante) tra il modulo della carica $Q$ su una delle armature e il modulo della differenza di potenziale $\Delta V$ tra di esse:
+$C = \frac{Q}{\Delta V}$
 
-* **Corrente Continua (CC o DC):** Si ha quando l'intensità di corrente $I$ è costante nel tempo.
-* **Verso Convenzionale:** Per convenzione, il verso della corrente è quello in cui si muoverebbero le cariche positive (quindi da potenziale $V$ più alto a potenziale $V$ più basso).
-    * Nei metalli, le cariche mobili sono elettroni (negativi) che si muovono nel verso opposto (da $V$ basso a $V$ alto), ma la corrente convenzionale $I$ è comunque definita come se fossero cariche positive.
-    * Nelle soluzioni elettrolitiche (biologia), la corrente è data dal moto di *entrambi* i tipi di ioni (es. $Na^+$ e $K^+$ si muovono in un verso, $Cl^-$ nell'altro).
+La capacità è una misura di "quanta carica" il condensatore può immagazzinare *per ogni Volt* di d.d.p. applicata. È una proprietà puramente geometrica (dipende da forma, dimensione e distanza delle armature) e dal dielettrico interposto.
 
-### Generatore di Tensione
-Per mantenere una corrente costante, è necessario un dispositivo che mantenga una $\Delta V$ costante ai capi del conduttore (es. una pila, un alimentatore, o la pompa $Na^+/K^+$ nella cellula). Questo **generatore di tensione** (o *f.e.m.*, forza elettromotrice) fornisce l'energia necessaria per "pompare" le cariche contro il campo elettrico al suo interno, mantenendo il dislivello di potenziale.
+L'unità di misura è il **Farad** ($F$), definito come $1 F = 1 C / V$.
 
----
+## 2. Il Condensatore Piano
 
-## 2. Leggi di Ohm e Resistenza
+Il modello più semplice è il condensatore piano: due armature piane e parallele di area $A$, poste a distanza $d$.
 
-### Prima Legge di Ohm
-Per molti materiali, detti **conduttori ohmici**, si osserva sperimentalmente che la corrente $I$ che li attraversa è direttamente proporzionale alla differenza di potenziale $\Delta V$ applicata ai loro capi.
+### Capacità nel Vuoto ($C_0$)
+Se tra le armature c'è il vuoto (o l'aria, con buona approssimazione), la capacità $C_0$ è:
+$C_0 = \epsilon_0 \frac{A}{d}$
+Dove $\epsilon_0$ è la costante dielettrica del vuoto.
 
-$\Delta V = R \cdot I \quad \text{(Prima Legge di Ohm)}$
+### Effetto del Dielettrico
+Se lo spazio tra le armature viene riempito con un materiale dielettrico di **costante dielettrica relativa** $\kappa$ (kappa), il fenomeno della [[Conduttori e Dielettrici#Polarizzazione|polarizzazione]] attenua il campo elettrico interno.
 
-La costante di proporzionalità $R$ è chiamata **Resistenza Elettrica**. Si misura in **Ohm** ($\Omega$), definito come $1 \Omega = 1 V / A$.
+A parità di carica $Q$ sulle armature, la $\Delta V$ tra di esse si riduce di un fattore $\kappa$ ($\Delta V = \Delta V_0 / \kappa$). Di conseguenza, la capacità *aumenta* di un fattore $\kappa$:
+$C = \frac{Q}{\Delta V} = \frac{Q}{(\Delta V_0 / \kappa)} = \kappa \frac{Q}{\Delta V_0} = \kappa \cdot C_0$
 
-La resistenza $R$ è una misura di quanto il conduttore si *opponga* al passaggio della corrente.
+La formula della capacità di un condensatore piano con dielettrico diventa:
+$C = \kappa \epsilon_0 \frac{A}{d} = \epsilon \frac{A}{d}$
+(dove $\epsilon = \kappa \epsilon_0$ è la *permettività* del materiale).
 
-### Seconda Legge di Ohm (Resistività)
-La resistenza $R$ di un conduttore (es. un filo) dipende dalle sue proprietà geometriche e dal materiale di cui è fatto:
+## 3. Energia Immagazzinata ($U_E$)
 
-$R = \rho \frac{L}{A}$
+Per caricare un condensatore, il generatore deve compiere un lavoro per spostare le cariche da un'armatura all'altra, "vincendo" la repulsione delle cariche già presenti. Questo lavoro viene immagazzinato come **energia potenziale elettrica** $U_E$ nel campo elettrico tra le armature.
 
-Dove:
-* $L$ è la lunghezza del conduttore.
-* $A$ è l'area della sua sezione trasversale.
-* $\rho$ (rho) è la **resistività**, una proprietà intrinseca del materiale (misurata in $\Omega \cdot m$).
-    * I **conduttori** (rame, argento, soluzioni saline) hanno $\rho$ molto bassa.
-    * Gli **isolanti** (gomma, vetro, *lipidi di membrana*) hanno $\rho$ molto alta.
+L'energia immagazzinata è data da:
+$U_E = \frac{1}{2} Q \Delta V = \frac{1}{2} C (\Delta V)^2 = \frac{1}{2} \frac{Q^2}{C}$
 
-La resistività (e quindi la resistenza) dipende dalla temperatura. Per i metalli, $R$ aumenta con l'aumentare della temperatura.
+## 4. Combinazione di Condensatori
 
----
+#### A. Condensatori in Parallelo
+Due o più condensatori sono in **parallelo** se sono tutti connessi tra gli stessi due punti (stesso $\Delta V$).
+* **Stessa $\Delta V$:** La d.d.p. è la stessa per tutti.
+* **Carica si Somma:** La carica totale $Q_{tot}$ fornita dal generatore è la somma delle cariche su ciascun condensatore.
+    $Q_{tot} = Q_1 + Q_2 + \dots$
+    $C_{eq} \Delta V = C_1 \Delta V + C_2 \Delta V + \dots$
 
-## 3. Potenza Elettrica ed Effetto Joule
+La **capacità equivalente** ($C_{eq}$) è la somma delle singole capacità:
+$C_{eq} = C_1 + C_2 + \dots + C_n$
+(Aumentare l'area totale)
 
-Mentre le cariche $q$ si muovono attraverso un resistore, "cadono" da un potenziale $V_A$ a un potenziale $V_B < V_A$. L'energia potenziale persa ($\Delta U_E = q \Delta V$) non si trasforma in energia cinetica (le cariche si muovono a velocità media costante, detta *velocità di deriva*), ma viene dissipata, solitamente in **calore**.
-
-Questo fenomeno di riscaldamento è detto **Effetto Joule**.
-
-La **potenza elettrica** ($P$), cioè l'energia dissipata per unità di tempo, è data da:
-$P = \frac{\Delta U_E}{\Delta t} = \frac{(I \cdot \Delta t) \cdot \Delta V}{\Delta t}$
-$P = \Delta V \cdot I$
-
-Combinando questa formula con la Prima Legge di Ohm ($\Delta V = IR$), si ottengono altre due espressioni utili per la potenza *dissipata* in una resistenza $R$:
-1.  $P = (\Delta V) \cdot I = (I \cdot R) \cdot I \implies P = I^2 R$
-2.  $P = (\Delta V) \cdot I = \Delta V \cdot (\frac{\Delta V}{R}) \implies P = \frac{(\Delta V)^2}{R}$
-
-L'unità di misura della potenza è il **Watt** ($W$), definito come $1 W = 1 J/s = 1 V \cdot A$.
-
----
-
-## 4. Combinazione di Resistenze (Circuiti)
-
-Nei circuiti elettrici (e nei modelli di membrana), le resistenze possono essere combinate in due modi base.
-
-### A. Resistenze in Serie
-Due o più resistori ($R_1, R_2, ...$) sono in **serie** se sono connessi uno di seguito all'altro, senza bivi.
-* **Stessa Corrente:** Sono attraversati dalla *stessa corrente* $I$.
-* **$\Delta V$ si Somma:** La differenza di potenziale totale $\Delta V_{tot}$ ai capi della serie è la somma delle singole $\Delta V$.
+#### B. Condensatori in Serie
+Due o più condensatori sono in **serie** se sono connessi uno di seguito all'altro, senza bivi.
+* **Stessa Carica:** La carica $Q$ è la *stessa* su tutte le armature (per induzione).
+* **$\Delta V$ si Somma:** La d.d.p. totale $\Delta V_{tot}$ è la somma delle singole d.d.p.
     $\Delta V_{tot} = \Delta V_1 + \Delta V_2 + \dots$
-    $I \cdot R_{eq} = I \cdot R_1 + I \cdot R_2 + \dots$
+    $\frac{Q}{C_{eq}} = \frac{Q}{C_1} + \frac{Q}{C_2} + \dots$
 
-La **resistenza equivalente** ($R_{eq}$) di una serie è la somma delle singole resistenze:
-$R_{eq} = R_1 + R_2 + \dots + R_n$
+Il reciproco della **capacità equivalente** ($C_{eq}$) è la somma dei reciproci delle singole capacità:
+$\frac{1}{C_{eq}} = \frac{1}{C_1} + \frac{1}{C_2} + \dots + \frac{1}{C_n}$
+(Aumentare la distanza totale $d$)
 
-### B. Resistenze in Parallelo
-Due o più resistori sono in **parallelo** se i loro "inizi" sono connessi tutti allo stesso punto $A$ e le loro "fini" sono connesse tutte allo stesso punto $B$.
-* **Stessa $\Delta V$:** Sono tutti sottoposti alla *stessa differenza di potenziale* $\Delta V_{AB}$.
-* **Corrente si Somma:** La corrente totale $I_{tot}$ che entra nel parallelo si suddivide tra i vari rami.
-    $I_{tot} = I_1 + I_2 + \dots$
-    $\frac{\Delta V}{R_{eq}} = \frac{\Delta V}{R_1} + \frac{\Delta V}{R_2} + \dots$
+> **Nota:** I collegamenti dei condensatori sono l'*opposto* di quelli delle [[Corrente e Leggi di Ohm#4. Combinazione di Resistenze (Circuiti)|resistenze]].
 
-Il reciproco della **resistenza equivalente** ($R_{eq}$) è la somma dei reciproci delle singole resistenze:
-$\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n}$
+---
+
+## 5. Carica e Scarica (Circuito RC)
+
+Consideriamo un circuito con un generatore ($\Delta V$), una [[Corrente e Leggi di Ohm#2. Leggi di Ohm e Resistenza|resistenza]] $R$ e un condensatore $C$ in serie (Circuito RC).
+
+### Carica
+Quando si chiude l'interruttore (al tempo $t=0$), il condensatore è scarico ($q(0)=0$) e inizia a caricarsi.
+* La corrente $I(t)$ è massima all'inizio ($I_{max} = \Delta V / R$) e diminuisce esponenzialmente.
+* La carica $q(t)$ sulle armature cresce da 0 fino al valore massimo $Q_{max} = C \Delta V$.
+
+$q(t) = Q_{max} (1 - e^{-t / \tau})$
+$V_C(t) = \Delta V (1 - e^{-t / \tau})$
+
+### Scarica
+Se un condensatore carico ($q(0)=Q_{max}$) viene cortocircuitato su una resistenza $R$, inizia a scaricarsi.
+* La carica $q(t)$ e la tensione $V_C(t)$ diminuiscono esponenzialmente da $Q_{max}$ e $\Delta V$ fino a 0.
+
+$q(t) = Q_{max} \cdot e^{-t / \tau}$
+$V_C(t) = \Delta V \cdot e^{-t / \tau}$
+
+### Costante di Tempo ($\tau$)
+In entrambi i processi, il parametro $\tau$ (tau) è la **costante di tempo** del circuito RC:
+$\tau = R \cdot C$
+Rappresenta il tempo necessario per caricare il condensatore al 63% (cioè $1 - 1/e$) del suo valore massimo, o per scaricarlo al 37% ($1/e$) del suo valore iniziale.
