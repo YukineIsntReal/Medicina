@@ -1,4 +1,4 @@
-Il calore ($Q$), come definito nella nota [[Calore, Capacità Termica e Cambiamenti di Stato#Calore ($Q$)|precedente]], è energia in transito. Questo trasferimento di energia può avvenire attraverso tre meccanismi fondamentali, che possono coesistere, anche se spesso uno è predominante.
+Il calore ($Q$), come definito nella nota [[20 - Calore, Capacità Termica e Cambiamenti di Stato#Calore ($Q$)|precedente]], è energia in transito. Questo trasferimento di energia può avvenire attraverso tre meccanismi fondamentali, che possono coesistere, anche se spesso uno è predominante.
 
 ---
 
