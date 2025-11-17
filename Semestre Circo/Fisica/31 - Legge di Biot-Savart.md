@@ -1,5 +1,3 @@
-# Legge di Biot-Savart
-
 La **Legge di Biot-Savart** è una legge fondamentale che descrive il contributo infinitesimo $d\vec{B}$ al campo magnetico generato da un elemento infinitesimo $d\vec{l}$ di un filo percorso da una corrente stazionaria $I$.
 
 ## 1. Enunciato (Contributo Infinitesimo)
