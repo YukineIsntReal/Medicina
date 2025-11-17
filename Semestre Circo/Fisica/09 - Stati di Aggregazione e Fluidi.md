@@ -1,5 +1,3 @@
-# Stati di Aggregazione e Fluidi
-
 ## Caratteristiche Fondamentali
 
 La materia si presenta principalmente in tre stati di aggregazione: **solido**, **liquido** e **gassoso**. La distinzione fondamentale tra questi stati risiede nella forza dei legami intermolecolari e nella libertà di movimento delle particelle.
@@ -41,7 +39,7 @@ La pressione è una misura della forza esercitata perpendicolarmente su una supe
 
 * **Definizione**: Rapporto tra il modulo della forza perpendicolare ($F_{\perp}$) agente su una superficie e l'area ($A$) della superficie stessa.
 * **Formula**: $P = \frac{F_{\perp}}{A}$
-* **Unità di Misura (SI)**: Pascal ($ Pa $), che equivale a un Newton su metro quadro ($1 \, Pa = 1 \, N/m^2$).
+* **Unità di Misura (SI)**: Pascal ($Pa$), che equivale a un Newton su metro quadro ($1 \, Pa = 1 \, N/m^2$).
 * **Natura**: La pressione è una **grandezza scalare**. In un fluido, agisce in egual misura in tutte le direzioni su un punto (Principio di Pascal).
 
 ---
