@@ -1,6 +1,4 @@
-# Idrodinamica (Fluidi in Movimento)
-
-L'**idrodinamica** (o fluidodinamica) descrive il comportamento dei fluidi quando sono in movimento.
+La **fluidodinamica** (o idrodinamica) descrive il comportamento dei fluidi quando sono in movimento.
 
 ---
 
