@@ -1,5 +1,3 @@
-# Onde Acustiche (Suono)
-
 Le **onde acustiche**, o **suono**, sono il caso più importante di onde meccaniche longitudinali per la biologia e la medicina. Consistono nella propagazione di zone di compressione e rarefazione attraverso un mezzo materiale.
 
 ## 1. Propagazione del Suono
@@ -14,7 +12,7 @@ La relazione generale è: $v = \sqrt{B / \rho}$
 
 ### Velocità del Suono in Mezzi Diversi
 
-La rigidità (B) ha generalmente un impatto maggiore della densità ($\rho$). Per questo, contrariamente a quanto si potrebbe intuituivamente pensare, il suono viaggia molto più velocemente nei solidi e nei liquidi che nei gas.
+La rigidità (B) ha generalmente un impatto maggiore della densità ($\rho$). Per questo, contrariamente a quanto si potrebbe intuitivamente pensare, il suono viaggia molto più velocemente nei solidi e nei liquidi che nei gas.
 
 | Mezzo | Velocità del Suono (approssimativa) | Rilevanza Medica |
 | :--- | :--- | :--- |
