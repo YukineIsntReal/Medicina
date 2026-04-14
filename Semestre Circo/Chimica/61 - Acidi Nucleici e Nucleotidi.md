@@ -4,7 +4,7 @@ Gli acidi nucleici (DNA e RNA) sono i polimeri che immagazzinano e trasmettono l
 
 Ogni nucleotide è composto da tre parti:
 1.  Una **Base Azotata** (composto eterociclico aromatico).
-2.  Uno **Zucchero Pentoso** (un [[Carboidrati|monosaccarido]] a 5C).
+2.  Uno **Zucchero Pentoso** (un [[02 - Carboidrati|monosaccarido]] a 5C).
 3.  Uno o più **Gruppi Fosfato**.
 
 ---
@@ -73,7 +73,7 @@ L'**Adenosina Trifosfato (ATP)** è la "moneta" energetica universale della cell
 
 ### Altri Nucleotidi Liberi
 * **GTP (Guanosina Trifosfato):** Fonte energetica specifica (es. sintesi proteica) e cruciale nella segnalazione cellulare (attivazione delle proteine G).
-* **CTP e UTP:** Usati nella sintesi dei [[Lipidi|lipidi]] (es. CDP-diacilglicerolo) e dei [[Carboidrati|carboidrati]] (es. UDP-glucosio).
+* **CTP e UTP:** Usati nella sintesi dei [[Lipidi|lipidi]] (es. CDP-diacilglicerolo) e dei [[02 - Carboidrati|carboidrati]] (es. UDP-glucosio).
 * **Coenzimi Nucleotidici:**
     * **NAD$^+$** (Nicotinammide Adenina Dinucleotide)
     * **FAD** (Flavina Adenina Dinucleotide)
