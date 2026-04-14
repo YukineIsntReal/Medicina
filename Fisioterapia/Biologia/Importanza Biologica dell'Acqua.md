@@ -32,7 +32,9 @@ L'acqua non è solo un mezzo, ma partecipa attivamente a molte reazioni biochimi
 ### 6. Lubrificazione e Protezione
 Essendo incomprimibile, l'acqua funge da cuscinetto protettivo e lubrificante.
 * **Funzione biologica:** È il componente principale di fluidi lubrificanti come il liquido sinoviale (nelle articolazioni), il liquido cefalorachidiano (protezione dell'encefalo e del midollo spinale) e il liquido pleurico, pericardico e peritoneale.
-    ### 7. Autoionizzazione dell'Acqua e pH
+  
+  
+### 7. Autoionizzazione dell'Acqua e pH
 Sebbene l'acqua sia un composto molecolare, una piccolissima frazione di molecole subisce un processo di autoionizzazione (o autoprotolisi):
 $$H_2O + H_2O \rightleftharpoons H_3O^+ + OH^-$$
 In acqua pura a $25^\circ C$, la concentrazione degli ioni idrogeno (espressi come idronio $[H_3O^+]$) e degli ioni idrossido $[OH^-]$ è uguale e pari a $10^{-7} \text{ mol/L}$.
