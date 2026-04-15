@@ -1,5 +1,3 @@
-# I Carboidrati (Glucidi)
-
 I carboidrati, o glucidi (dal greco *glukýs*, "dolce"), sono composti organici ternari costituiti da Carbonio, Idrogeno e Ossigeno. Hanno formula generale $(CH_2O)_n$ e rappresentano la principale fonte di energia a breve termine per gli organismi.
 
 ## 1. Monosaccaridi
