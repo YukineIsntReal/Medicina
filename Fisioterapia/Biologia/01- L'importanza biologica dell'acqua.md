@@ -1,5 +1,3 @@
-# L'Acqua: Struttura e Proprietà
-
 L'acqua ($H_2O$) è la molecola inorganica più abbondante negli organismi viventi (costituisce circa il 60-70% del peso corporeo umano) ed è il presupposto fondamentale per lo sviluppo e il mantenimento della vita. Le sue eccezionali proprietà chimico-fisiche derivano interamente dalla sua struttura molecolare e dalle interazioni che si instaurano tra le sue molecole.
 
 ## Struttura Molecolare e Polarità
