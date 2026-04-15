@@ -1,10 +1,3 @@
-# Basi della Citologia
-
-**Tags:** #Biologia #Citologia #TestIngresso #Fisioterapia
-**Argomenti correlati:** [[Biologia Cellulare]], [[Metabolismo Cellulare]], [[Riproduzione Cellulare]]
-
----
-
 ## 1. La Teoria Cellulare
 La teoria cellulare è uno dei principi unificanti della biologia e rappresenta il punto di partenza per lo studio della citologia. Formulata originariamente verso la metà dell'Ottocento grazie agli studi di M. Schleiden (botanico), T. Schwann (zoologo) e R. Virchow (patologo), si basa su tre postulati fondamentali:
 
