@@ -1,10 +1,3 @@
-# Procarioti ed Eucarioti: Differenze e Struttura Batterica
-
-**Tags:** #Biologia #Citologia #Microbiologia #TestIngresso #Fisioterapia
-**Argomenti correlati:** [[Basi della Citologia]], [[Genetica Batterica]], [[Riproduzione Cellulare]]
-
----
-
 ## 1. Procarioti ed Eucarioti: Differenze Strutturali e Funzionali
 
 Tutte le cellule presenti in natura si dividono in due grandi categorie basate sulla loro organizzazione strutturale: le cellule **procariotiche** (dal greco *pro*, prima, e *karyon*, nucleo) e le cellule **eucariotiche** (*eu*, vero, e *karyon*, nucleo).
