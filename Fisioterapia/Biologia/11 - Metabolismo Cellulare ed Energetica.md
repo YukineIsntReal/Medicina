@@ -1,10 +1,3 @@
-# Metabolismo Cellulare ed Energetica
-
-**Tags:** #Biologia #Biochimica #Metabolismo #TestIngresso #Fisioterapia
-**Argomenti correlati:** [[Organuli Citoplasmatici e Citoscheletro]], [[Enzimi]], [[Respirazione Cellulare]]
-
----
-
 ## 1. Il Metabolismo Cellulare: Anabolismo e Catabolismo
 Il **metabolismo** è l'insieme di tutte le reazioni chimiche che avvengono all'interno di una cellula o di un organismo. Il suo scopo è ricavare energia dall'ambiente e utilizzarla per sintetizzare le molecole necessarie alla vita. 
 Le vie metaboliche si dividono in due grandi categorie opposte ma complementari:
