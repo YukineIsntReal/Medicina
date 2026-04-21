@@ -1,5 +1,3 @@
-# Le Mutazioni
-
 Le mutazioni sono alterazioni stabili, ereditabili e casuali nella sequenza del [[DNA]]. Sebbene spesso siano associate a patologie, sono anche il motore fondamentale dell'evoluzione, poiché generano nuova variabilità genetica. Le mutazioni si dividono in tre grandi classi in base alla quantità di materiale genetico coinvolto.
 
 ## 1. Mutazioni Geniche (Puntiformi)
