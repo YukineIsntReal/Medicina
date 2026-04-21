@@ -1,62 +1,42 @@
-# Dal DNA alle Proteine
+# Le Mutazioni
 
-Il flusso dell'informazione genetica segue il **Dogma Centrale della Biologia Molecolare**: il DNA si replica, viene trascritto in RNA e l'RNA viene tradotto in proteine.
+Le mutazioni sono alterazioni stabili, ereditabili e casuali nella sequenza del [[DNA]]. Sebbene spesso siano associate a patologie, sono anche il motore fondamentale dell'evoluzione, poiché generano nuova variabilità genetica. Le mutazioni si dividono in tre grandi classi in base alla quantità di materiale genetico coinvolto.
 
-## 1. Duplicazione (Replicazione) del DNA
-La duplicazione del [[DNA]] è un processo **semiconservativo**: ogni nuova molecola di DNA è formata da un filamento vecchio (parentale) e da un filamento di nuova sintesi. Avviene durante la fase S del [[Ciclo cellulare]].
+## 1. Mutazioni Geniche (Puntiformi)
+Coinvolgono l'alterazione di **uno o pochi nucleotidi** all'interno di un singolo gene. Possono avvenire per *sostituzione*, *inserzione* o *delezione* di basi. A causa delle regole del [[Codice Genetico]] (che viene letto a triplette), hanno effetti fenotipici molto diversi:
 
-### Enzimi e Meccanismo
-Il processo inizia nelle origini di replicazione, dove la doppia elica viene aperta formando la *forcella di replicazione*.
-* **Elicasi**: Srotola e separa i due filamenti di DNA rompendo i legami a idrogeno tra le basi azotate.
-* **Topoisomerasi**: Impedisce il superavvolgimento del DNA a valle della forcella.
-* **Primasi**: È una RNA polimerasi che sintetizza un breve tratto di RNA detto **primer** (o innesco), necessario perché la DNA polimerasi non può iniziare a sintetizzare dal nulla.
-* **DNA Polimerasi**: Aggiunge i nuovi nucleotidi complementari. Regola d'oro per i test: **lavora SEMPRE E SOLO in direzione 5' -> 3'**. Ha anche un'attività di *proofreading* (correzione di bozze) per correggere eventuali errori.
-* **Ligasi**: Unisce i frammenti di DNA appena sintetizzati.
+### Sostituzione di Base
+Un nucleotide viene scambiato con un altro.
+* **Mutazione Silente**: Grazie alla *ridondanza* (o degenerazione) del codice genetico, la nuova tripletta codifica per lo **stesso amminoacido** di quella originale. La proteina prodotta è identica e funzionante. Non c'è effetto fenotipico.
+* **Mutazione Missenso (di senso)**: La sostituzione porta alla formazione di un codone che codifica per un **amminoacido diverso**. La proteina sarà mutata. 
+    * *Esempio clinico da test*: L'**Anemia Falciforme** è causata da una singola mutazione missenso (l'Acido Glutammico viene sostituito dalla Valina) nella catena beta dell'emoglobina.
+* **Mutazione Nonsenso (non senso)**: La sostituzione trasforma un codone codificante in un **codone di STOP** (UAA, UAG o UGA). Questo provoca la fine prematura della [[Traduzione]]; la proteina risultante sarà tronca e quasi certamente non funzionante. ^mutazioni-puntiformi
 
-### Filamento Guida e Filamento Lento
-Poiché i due filamenti del DNA sono antiparalleli e la DNA Polimerasi lavora solo in direzione 5' -> 3':
-* Il **filamento guida** (veloce) è sintetizzato in modo continuo.
-* Il **filamento lento** (ritardato) è sintetizzato in modo discontinuo sotto forma di corti segmenti chiamati **Frammenti di Okazaki**, che verranno poi uniti dalla Ligasi. ^frammenti-okazaki
+### Inserzioni o Delezioni (Frameshift)
+L'aggiunta o la perdita di uno o due nucleotidi altera la griglia di lettura (il *frame*) del ribosoma da quel punto in poi.
+* **Mutazione Frameshift (scorrimento della finestra di lettura)**: Tutti i codoni a valle della mutazione verranno letti in modo errato, producendo una sequenza amminoacidica completamente diversa e, spesso, l'incontro casuale di un codone di stop prematuro.
 
 ---
 
-## 2. Trascrizione (dal DNA all'mRNA)
-La trascrizione è il processo di sintesi di una molecola di RNA messaggero (mRNA) a partire da uno stampo di DNA. 
-* **Enzima chiave**: L'**[[RNA Polimerasi]]**. Si lega a specifiche sequenze di DNA chiamate **promotori** (nei test è famosa la *TATA box*).
-* Non c'è bisogno di primer: l'RNA Polimerasi apre l'elica e inizia a copiare un solo filamento (il filamento stampo). Al posto della Timina (T), nell'RNA viene inserito l'Uracile (U).
-* **Maturazione dell'mRNA (solo negli Eucarioti)**: Prima di uscire dal nucleo, il pre-mRNA subisce modifiche:
-    1.  *Capping*: Aggiunta di un "cappuccio" al terminale 5'.
-    2.  *Poliadenilazione*: Aggiunta di una coda di adenine (coda poli-A) al terminale 3'.
-    3.  *Splicing*: Rimozione degli **introni** (parti non codificanti) e unione degli **esoni** (parti codificanti).
+## 2. Mutazioni Cromosomiche (Strutturali)
+Alterano la **struttura** di uno o più [[Cromosomi]], coinvolgendo interi frammenti di DNA che contengono numerosi geni. Spesso sono causate da errori durante il [[Crossing-over]] nella profase della [[Meiosi]] I.
+* **Delezione**: Perdita di un frammento di cromosoma. (*Esempio: Sindrome del "cri-du-chat", causata dalla delezione di un braccio del cromosoma 5*).
+* **Duplicazione**: Un frammento di cromosoma si ripete, comparendo due volte.
+* **Inversione**: Un frammento si stacca e si riattacca allo stesso cromosoma, ma ruotato di $180^\circ$. Spesso non causa danni diretti all'individuo (il numero di geni è invariato), ma può causare problemi durante la formazione dei suoi gameti.
+* **Traslocazione**: Scambio di frammenti tra cromosomi **non omologhi**. Se lo scambio è reciproco non c'è perdita di materiale, ma può innescare tumori (*Esempio: la traslocazione tra i cromosomi 9 e 22 genera il "Cromosoma Philadelphia", tipico della leucemia mieloide cronica*).
 
 ---
 
-## 3. Il Codice Genetico
-Il codice genetico è il "vocabolario" che traduce la sequenza di nucleotidi dell'mRNA nella sequenza di amminoacidi di una proteina. L'informazione è letta in gruppi di tre nucleotidi, chiamati **codoni** (o triplette).
-Essendoci 4 basi azotate lette a gruppi di 3, ci sono $4^3 = 64$ combinazioni possibili.
-* **Codone di START**: AUG (codifica per la Metionina).
-* **Codoni di STOP**: UAA, UAG, UGA (non codificano per nessun amminoacido, segnano la fine della traduzione).
+## 3. Mutazioni Genomiche (Numeriche o Aneuploidie)
+Alterano il **numero totale dei cromosomi**. L'individuo non avrà il classico corredo diploide ($2n = 46$), ma cromosomi in più o in meno.
+* **Causa principale**: La **Non disgiunzione** dei cromosomi omologhi durante l'anafase I della meiosi, o dei cromatidi fratelli nell'anafase II. Questo produce gameti sbilanciati (con $24$ o $22$ cromosomi anziché $23$).
 
-### Caratteristiche Fondamentali (Domande frequenti ai test!)
-1.  **Universale**: È identico in quasi tutti gli organismi viventi (dai batteri all'uomo).
-2.  **Ridondante (o Degenerato)**: Un singolo amminoacido può essere codificato da più codoni diversi (es. ci sono 6 codoni per la Leucina). Questo protegge dalle mutazioni.
-3.  **Univoco (Non ambiguo)**: Un singolo codone codifica per **uno e un solo** amminoacido.
-4.  **Senza punteggiatura**: Viene letto in modo continuo, senza sovrapposizioni o salti. ^caratteristiche-codice
+Le alterazioni umane più testate si dividono in:
 
----
+### Aneuploidie Autosomiche
+La più frequente e compatibile con la vita è la **[[Sindrome di Down]]** (Trisomia 21). L'individuo possiede tre copie del cromosoma 21, per un totale di $47$ cromosomi ($47, XX,+21$ oppure $47, XY,+21$). Altre trisomie note sono la Sindrome di Edwards (trisomia 18) e la Sindrome di Patau (trisomia 13).
 
-## 4. Traduzione (Sintesi Proteica)
-È il processo in cui l'mRNA viene letto per assemblare una catena polipeptidica. Avviene nel citoplasma.
-
-### I protagonisti
-* **[[mRNA]]**: Porta l'informazione dal nucleo al citoplasma.
-* **[[tRNA]] (RNA transfer)**: Funziona da interprete. Ha una forma a trifoglio; a un'estremità lega un amminoacido specifico, dall'altra espone un **anticodone** (tre basi complementari al codone dell'mRNA).
-* **[[Ribosomi]]**: Organuli composti da rRNA e proteine. Formati da due subunità (maggiore e minore). La subunità maggiore ha tre siti:
-    * **Sito A (Amminoacilico)**: Accoglie il nuovo tRNA carico dell'amminoacido.
-    * **Sito P (Peptidilico)**: Ospita il tRNA che trattiene la catena polipeptidica in crescita.
-    * **Sito E (Exit)**: Da dove il tRNA "scarico" esce dal ribosoma.
-
-### Fasi della Traduzione
-1.  **Inizio**: La subunità minore del ribosoma si lega all'mRNA. Scorre fino a trovare il codone di START (AUG). Il tRNA con la Metionina si lega e si unisce la subunità maggiore.
-2.  **Allungamento**: Un nuovo tRNA entra nel sito A. Si forma un legame peptidico tra l'amminoacido nel sito P e quello nel sito A. Il ribosoma scorre (traslocazione) di un codone.
-3.  **Terminazione**: Quando il ribosoma incontra un codone di STOP, un *fattore di rilascio* si lega al sito A. La proteina appena formata viene liberata e il ribosoma si disassembla.
+### Aneuploidie dei Cromosomi Sessuali
+Il corpo umano tollera meglio gli sbilanciamenti dei cromosomi sessuali rispetto agli autosomi.
+* **Sindrome di Turner ($X0$)**: È l'unica *monosomia* (un cromosoma in meno, totale $45$) compatibile con la vita umana. Individui femmine, sterili, con bassa statura e assenza di sviluppo puberale.
+* **Sindrome di Klinefelter ($XXY$)**: Individui di sesso maschile (per la presenza del cromosoma Y) ma con un cromosoma X in più (totale $47$). Si presenta con ipogonadismo, sterilità e talvolta sviluppo del seno (ginecomastia). ^aneuploidie
