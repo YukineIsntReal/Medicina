@@ -1,5 +1,3 @@
-# 
-
 L'apparato urinario ha il compito vitale di mantenere l'[[Omeostasi]] dei fluidi corporei: depura il sangue dai prodotti di scarto del metabolismo (in particolare i composti azotati come l'urea), regola il volume sanguigno (pressione), l'equilibrio elettrolitico e il pH del sangue.
 
 ---
