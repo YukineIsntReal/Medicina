@@ -1,4 +1,4 @@
-Il sistema endocrino è uno dei due principali sistemi di comunicazione e controllo del corpo (insieme al [[Sistema Nervoso]]). Funziona tramite il rilascio di messaggeri chimici, gli **ormoni**, direttamente nel circolo sanguigno.
+Il sistema endocrino è uno dei due principali sistemi di comunicazione e controllo del corpo (insieme al [[30 - Sistema Nervoso]]). Funziona tramite il rilascio di messaggeri chimici, gli **ormoni**, direttamente nel circolo sanguigno.
 
 ---
 
@@ -17,7 +17,7 @@ L'**[[Ipotalamo]]** (parte dell'encefalo) è il ponte tra sistema nervoso ed end
 L'ipofisi è divisa in due lobi con funzioni e origini completamente diverse:
 ### A. Neuroipofisi (Lobo Posteriore)
 📌 **ATTENZIONE PER IL TEST:** *NON* produce ormoni! Funge solo da magazzino per due ormoni prodotti dall'ipotalamo:
-- **ADH (Ormone Antidiuretico o Vasopressina):** Stimola il riassorbimento di acqua nei reni (vedi [[Apparato Urinario ed Escretore]]).
+- **ADH (Ormone Antidiuretico o Vasopressina):** Stimola il riassorbimento di acqua nei reni (vedi [[28 - Apparato Urinario ed Escretore]]).
 - **Ossitocina:** Stimola le contrazioni uterine durante il parto e il rilascio di latte dalle mammelle.
 
 ### B. Adenoipofisi (Lobo Anteriore)
@@ -51,7 +51,7 @@ Situate sopra i reni. Sono composte da due zone distinte:
 ---
 
 ## 5. Pancreas Endocrino
-Il pancreas è una ghiandola mista (vedi [[Apparato Digerente]]). La sua parte endocrina è costituita dalle **Isole di Langerhans**, fondamentali per regolare la glicemia (glucosio nel sangue).
+Il pancreas è una ghiandola mista (vedi [[27 - Apparato Digerente]]). La sua parte endocrina è costituita dalle **Isole di Langerhans**, fondamentali per regolare la glicemia (glucosio nel sangue).
 - **Cellule Alfa:** Producono **Glucagone**. Ormone *iperglicemizzante* (alza la glicemia) stimolando il [[Fegato]] a demolire il glicogeno in glucosio.
 - **Cellule Beta:** Producono **Insulina**. Ormone *ipoglicemizzante* (abbassa la glicemia) permettendo al glucosio di entrare nelle cellule (soprattutto fegato, muscolo e [[Tessuto Adiposo]]) per produrre energia o depositarlo. 
 

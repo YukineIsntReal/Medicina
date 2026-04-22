@@ -6,7 +6,7 @@ L'apparato digerente è un lungo tubo continuo (canale alimentare) associato a d
 Il canale alimentare (lungo circa 9 metri) attraversa il corpo dalla bocca all'ano.
 
 1. **Bocca (Cavità Orale):** Sede della masticazione e insalivazione.
-2. **Faringe:** Via di transito comune con l'[[Apparato Respiratorio]]. (Ricorda il ruolo dell'epiglottide che impedisce al cibo di entrare nella laringe!).
+2. **Faringe:** Via di transito comune con l'[[26 - Apparato Respiratorio]]. (Ricorda il ruolo dell'epiglottide che impedisce al cibo di entrare nella laringe!).
 3. **Esofago:** Tubo muscolare che spinge il *bolo* alimentare verso lo stomaco tramite movimenti di **peristalsi** (contrazioni involontarie della muscolatura liscia).
 4. **Stomaco:** Organo a forma di "J" espandibile. Mescola il cibo con i succhi gastrici trasformandolo in *chimo*. È separato dall'esofago dal cardias e dall'intestino dal piloro (due sfinteri).
 5. **Intestino Tenue:** Diviso in **Duodeno** (principale sede della digestione chimica), **Digiuno** e **Ileo** (sedi principali dell'assorbimento). Qui il cibo prende il nome di *chilo*.

@@ -53,6 +53,6 @@ Produciamo circa 180 litri di filtrato al giorno, ma espelliamo solo 1,5 litri d
 ---
 
 ## 4. Regolazione Ormonale
-Il lavoro del rene è finemente regolato dal [[Sistema Endocrino]]:
+Il lavoro del rene è finemente regolato dal [[29 - Sistema Endocrino]]:
 - **Ormone Antidiuretico (ADH o Vasopressina):** Prodotto dall'ipotalamo e rilasciato dalla neuroipofisi. Rende il dotto collettore più permeabile all'acqua. Aumenta il riassorbimento di $H_2O$, producendo urina più concentrata (e aumentando il volume/pressione del sangue).
 - **Aldosterone:** Prodotto dalla corticale del surrene. Agisce sul TCD stimolando il riassorbimento di $Na^+$ e l'escrezione di $K^+$. Poiché "l'acqua segue il sodio", favorisce anche il recupero di volume ematico.
