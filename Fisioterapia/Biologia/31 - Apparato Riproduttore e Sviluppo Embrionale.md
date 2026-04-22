@@ -1,5 +1,3 @@
-# 
-
 A differenza degli altri apparati, il sistema riproduttore non è essenziale per la sopravvivenza del singolo individuo, ma lo è per la conservazione della specie. È responsabile della produzione dei gameti (cellule aploidi, $n$), della fecondazione e dello sviluppo del nuovo organismo (diploide, $2n$).
 
 ---
@@ -34,7 +32,7 @@ Organi pari situati nella cavità pelvica. Contengono i follicoli ovarici (oocit
 ---
 
 ## 3. Regolazione Ormonale: Il Ciclo Ovarico e Mestruale
-Il ciclo dura in media 28 giorni ed è diviso funzionalmente in due processi sincronizzati dal [[Sistema Endocrino]].
+Il ciclo dura in media 28 giorni ed è diviso funzionalmente in due processi sincronizzati dal [[29 - Sistema Endocrino]].
 
 ### Fase Follicolare (Giorni 1-13)
 - L'ipofisi secerne l'ormone $FSH$ (Follicolostimolante), che stimola la maturazione di un follicolo nell'ovaio.
