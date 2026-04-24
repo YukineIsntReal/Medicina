@@ -36,7 +36,7 @@ Per affrontare i quiz, è essenziale non confondere questi tre termini, che indi
 - **Definizione**: Strutture altamente spiralizzate, ripiegate e condensate della cromatina.
 - **Stato**: I cromosomi diventano visibili come strutture distinte al microscopio ottico *solo* durante la fase $M$. La condensazione è necessaria per evitare rotture o aggrovigliamenti del $DNA$ durante il suo "trascinamento" ai poli opposti della cellula. Nell'essere umano ci sono $46$ cromosomi (corredo diploide $2n = 46$).
 
-### Cromatidi Fratelli
+### [[Cromatidi Fratelli]]
 - **Definizione**: Sono le due copie identiche di uno stesso cromosoma duplicato.
 - **Quando si formano**: Si generano esclusivamente durante la fase $S$ in seguito alla replicazione del $DNA$.
 - **Struttura e Dinamica**: Rimangono uniti a livello di una strozzatura chiamata **centromero** (grazie a un complesso proteico detto *coesina*) per tutta la fase $G_2$ e l'inizio della mitosi.
