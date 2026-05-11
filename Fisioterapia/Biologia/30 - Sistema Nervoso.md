@@ -23,7 +23,7 @@ Il sistema nervoso coordina e controlla le funzioni del corpo, riceve gli stimol
 ---
 
 ## 2. Struttura del Neurone
-Il neurone è l'unità funzionale eccitabile (per i dettagli istologici completi richiama la nota `[[Istologia di Base]]`).
+Il neurone è l'unità funzionale eccitabile (per i dettagli istologici completi richiama la nota [[21 - Istologia di Base]]).
 - **Soma (Corpo cellulare):** Contiene nucleo e organuli.
 - **Dendriti:** Ricevono l'impulso.
 - **Assone:** Trasmette l'impulso. Spesso è rivestito dalla **Guaina Mielinica** (isolante lipidico), interrotta a intervalli regolari dai **Nodi di Ranvier**. Questa struttura permette la *conduzione saltatoria*, che rende l'impulso incredibilmente più veloce rispetto agli assoni amielinici.
