@@ -1,67 +1,52 @@
-In chimica, la formula di un composto ci fornisce informazioni sia qualitative (quali elementi sono presenti) sia quantitative (in che rapporto si trovano o la loro quantità esatta). Per padroneggiare questi concetti, è fondamentale aver prima compreso [[La Mole e la Costante di Avogadro]].
+Una volta bilanciata una reazione (vedi `[[Chimica Inorganica: Reazioni Chimiche e Bilanciamento]]`), i **coefficienti stechiometrici** ci forniscono il rapporto esatto (in moli) con cui le sostanze reagiscono e si formano. La stechiometria è la branca della chimica che sfrutta questi rapporti per calcolare le quantità delle sostanze coinvolte.
 
-## 1. Composizione Percentuale (o Centesimale)
+## 1. Relazioni Moli-Moli e Moli-Massa
 
-La **composizione percentuale** indica la percentuale in massa di ciascun elemento all'interno di un composto. 
-Ci dice, in sostanza, quanti grammi di ogni elemento ci sono in $100 \text{ g}$ esatti di quel composto.
+Nei calcoli stechiometrici, l'unità di conversione universale è la **mole**. I coefficienti indicano il rapporto molare, NON il rapporto in grammi!
 
-**Formula per il calcolo:**
-$$\% \text{ Elemento} = \left( \frac{n \times PA}{PM_{totale}} \right) \times 100$$
-Dove:
-* $n$ = numero di moli (o atomi) di quell'elemento nella formula.
-* $PA$ = Massa Atomica Relativa dell'elemento.
-* $PM_{totale}$ = Massa Molecolare (o Molare) totale del composto.
+### Il "Metodo Universale" in 3 Step per i Test
+Se il problema ti dà i grammi della Sostanza A e ti chiede i grammi della Sostanza B prodotta, segui SEMPRE questo percorso:
+**Massa A $\xrightarrow{\text{Step 1}}$ Moli A $\xrightarrow{\text{Step 2}}$ Moli B $\xrightarrow{\text{Step 3}}$ Massa B**
 
-* **Esempio: Composizione dell'Acqua ($H_2O$)**
-  * $PM_{H_2O} = (2 \times 1) + 16 = 18 \text{ g/mol}$
-  * $\% H = \left( \frac{2 \times 1}{18} \right) \times 100 \approx 11.1\%$
-  * $\% O = \left( \frac{1 \times 16}{18} \right) \times 100 \approx 88.9\%$
-  * *Verifica:* $11.1\% + 88.9\% = 100\%$
+**Esempio Pratico:**
+Data la reazione: $2H_2 + O_2 \rightarrow 2H_2O$. Quanti grammi di acqua si ottengono facendo reagire $4 \text{ g}$ di $H_2$ con abbondante $O_2$?
+* **Step 1 (Massa A $\rightarrow$ Moli A):** Trovo le moli di $H_2$. ($PM_{H_2} = 2 \text{ g/mol}$).
+  $$n_{H_2} = \frac{4 \text{ g}}{2 \text{ g/mol}} = 2 \text{ mol}$$
+* **Step 2 (Moli A $\rightarrow$ Moli B):** Guardo i coefficienti della reazione bilanciata. Il rapporto $H_2 : H_2O$ è $2:2$ (ovvero $1:1$). Quindi, da 2 moli di $H_2$ otterrò **$2 \text{ mol}$** di $H_2O$.
+* **Step 3 (Moli B $\rightarrow$ Massa B):** Trasformo le moli di acqua in grammi. ($PM_{H_2O} = 18 \text{ g/mol}$).
+  $$\text{Massa } H_2O = 2 \text{ mol} \times 18 \text{ g/mol} = \mathbf{36 \text{ g}}$$
 
 ---
 
-## 2. Formula Minima (o Empirica)
+## 2. Reagente Limitante e Reagente in Eccesso
 
-La **formula minima (o empirica)** esprime il rapporto numerico **più semplice (minimo e intero)** tra gli atomi degli elementi che formano un composto. Non indica necessariamente il numero reale di atomi in una molecola.
+Quando in un problema (o in un esperimento reale) le quantità iniziali dei reagenti non rispecchiano esattamente i rapporti stechiometrici, uno dei due si esaurirà prima dell'altro.
+* **Reagente Limitante:** È il reagente che si consuma completamente per primo. Una volta finito lui, la reazione si ferma. **È lui che determina la quantità massima di prodotto che si può ottenere.**
+* **Reagente in Eccesso:** È il reagente che avanza (rimane in parte non reagito) alla fine della reazione.
 
-### Come ricavare la formula minima dalla composizione percentuale (Esercizio tipico da Test)
-Segui rigorosamente questi 3 passaggi:
+### Il trucco da Quiz per trovare il Reagente Limitante:
+Non fidarti mai delle quantità in grammi per capire chi finirà prima (una sostanza pesante potrebbe sembrare in eccesso ma avere poche moli!). Applica questa regola:
 
-**Problema:** Un composto è formato per il $40\%$ da Carbonio ($C$), il $6.7\%$ da Idrogeno ($H$) e il $53.3\%$ da Ossigeno ($O$). Trova la formula minima.
+1. Calcola le **moli iniziali** di tutti i reagenti.
+2. Dividi le moli di ciascun reagente per il proprio **coefficiente stechiometrico** preso dall'equazione bilanciata.
+3. **Il risultato più piccolo** identifica il reagente limitante.
 
-1. **Trasforma le percentuali in grammi:** Immagina di avere esattamente $100 \text{ g}$ di sostanza. Avrai quindi $40 \text{ g}$ di $C$, $6.7 \text{ g}$ di $H$ e $53.3 \text{ g}$ di $O$.
-2. **Calcola le moli di ciascun elemento:** Dividi i grammi per il rispettivo Peso Atomico ($PA$).
-   * $n_C = \frac{40}{12} \approx 3.33 \text{ mol}$
-   * $n_H = \frac{6.7}{1} = 6.7 \text{ mol}$
-   * $n_O = \frac{53.3}{16} \approx 3.33 \text{ mol}$
-3. **Dividi tutti i valori per il numero di moli più piccolo ottenuto:** (In questo caso, $3.33$).
-   * $C = \frac{3.33}{3.33} = 1$
-   * $H = \frac{6.7}{3.33} \approx 2$
-   * $O = \frac{3.33}{3.33} = 1$
-   
-* **Risultato:** La formula minima è **$CH_2O$**.
-
-*(Nota: se al passaggio 3 ottieni numeri con decimali come $1.5$, devi moltiplicare tutti gli indici per 2, per 3, ecc., fino a ottenere numeri interi).*
+*Esempio:*
+Reazione: $N_2 + 3H_2 \rightarrow 2NH_3$
+Mettiamo a reagire $2 \text{ mol}$ di $N_2$ e $3 \text{ mol}$ di $H_2$. Chi è il limitante?
+* Per $N_2$: $\frac{2}{1} = 2$
+* Per $H_2$: $\frac{3}{3} = \mathbf{1}$
+Il numero più piccolo appartiene all'Idrogeno. **$H_2$ è il reagente limitante**, e tutta la stechiometria successiva andrà calcolata basandosi solo sui suoi dati!
 
 ---
 
-## 3. Formula Molecolare
+## 3. Resa Teorica e Resa Percentuale
 
-La **formula molecolare** indica il numero **reale ed esatto** di atomi di ciascun elemento presenti in una singola molecola del composto. 
-Può coincidere con la formula minima oppure essere un suo multiplo intero.
+Nella realtà di laboratorio (e nei quiz più complessi), non tutto il reagente limitante si converte magicamente in prodotto puro.
+* **Resa Teorica:** È la quantità massima di prodotto calcolabile sulla carta (sulla base del reagente limitante).
+* **Resa Effettiva (o Reale):** È la quantità di prodotto fisicamente ottenuta e misurata alla fine dell'esperimento. È quasi sempre inferiore alla resa teorica.
 
-Per trovare la formula molecolare, oltre alla formula minima, **i quiz devono fornirti per forza il Peso Molecolare ($PM$) reale** (sperimentale) del composto.
+La relazione tra le due si esprime tramite la **Resa Percentuale ($\% R$)**:
+$$\% R = \left( \frac{\text{Resa Effettiva}}{\text{Resa Teorica}} \right) \times 100$$
 
-**Formula per il calcolo:**
-$$n = \frac{PM \text{ (reale)}}{PM \text{ (della formula minima)}}$$
-Una volta trovato il fattore $n$, moltiplica tutti i pedici della formula minima per $n$.
-
-* **Esempio basato sul calcolo precedente ($CH_2O$):**
-  * Il quiz ci dice che il $PM$ reale del composto è $180 \text{ g/mol}$.
-  * Calcoliamo il $PM$ della nostra formula minima ($CH_2O$): $12 + (2 \times 1) + 16 = 30 \text{ g/mol}$.
-  * Troviamo il fattore moltiplicativo: $n = \frac{180}{30} = 6$.
-  * Moltiplichiamo la formula minima per 6: $(CH_2O) \times 6 \implies \mathbf{C_6H_{12}O_6}$ (Glucosio).
-
-**Generalizzazione Importante per i Quiz:**
-Molecole diverse possono avere la stessa formula minima ma formule molecolari diverse! 
-* L'acetilene ($C_2H_2$) e il benzene ($C_6H_6$) sono sostanze completamente diverse, ma hanno la **stessa formula minima** ($CH$) e, di conseguenza, la **stessa composizione percentuale** ($92.3\% C$, $7.7\% H$).
+*Esempio rapido da quiz:* Se mi aspetto (teoricamente) $100 \text{ g}$ di prodotto, ma la resa della reazione è dell'$80\%$, otterrò effettivamente solo $80 \text{ g}$.
