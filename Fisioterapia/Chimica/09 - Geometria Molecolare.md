@@ -1,5 +1,3 @@
-# Geometria Molecolare
-
 La **geometria molecolare** definisce la disposizione tridimensionale degli atomi che costituiscono una molecola. La forma di una molecola influenza profondamente le sue proprietà fisiche e chimiche (punti di fusione, ebollizione, solubilità e reattività).
 
 ---
