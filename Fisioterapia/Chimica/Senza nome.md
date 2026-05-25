@@ -1,39 +1,66 @@
-# Principi Base: La Regola dell'Ottetto e l'Energia di Legame
+# Geometria Molecolare
 
-## La Regola dell'Ottetto
-La **regola dell'ottetto** è stata formulata dal chimico Gilbert N. Lewis nel 1916. Essa stabilisce che gli atomi tendono a formare [[Legami Chimici]] (cedendo, acquistando o mettendo in compartecipazione elettroni) in modo da raggiungere la configurazione elettronica del [[Gas Nobili|gas nobile]] più vicino nel sistema periodico. 
-
-Questo significa completare il livello energetico più esterno (guscio di valenza) con **otto elettroni**, raggiungendo una configurazione stabile del tipo $ns^2 np^6$.
-- **Eccezione intrinseca (Regola del Duetto):** L'Idrogeno ($H$), il Litio ($Li$) e il Berillio ($Be$) tendono a raggiungere la configurazione dell'Elio ($He$), che ha solo due elettroni nel guscio di valenza ($1s^2$).
-
-## Eccezioni alla Regola dell'Ottetto
-Nei test d'ingresso, le eccezioni all'ottetto sono molto frequenti. Si dividono principalmente in tre categorie:
-
-### 1. Ottetto Incompleto
-Si verifica quando l'atomo centrale in una molecola è stabile pur avendo meno di 8 elettroni di valenza.
-- **Esempi tipici:** I composti del Boro ($B$) e dell'Alluminio ($Al$), appartenenti al III gruppo. Nel trifluoruro di boro ($BF_3$), il Boro è circondato da soli 6 elettroni e si comporta da forte [[Acidi e Basi di Lewis|Acido di Lewis]] per accettare un doppietto elettronico. Anche il cloruro di berillio ($BeCl_2$) presenta un ottetto incompleto con 4 elettroni.
-
-### 2. Ottetto Espanso (o Espansione dell'Ottetto)
-Avviene quando l'atomo centrale accomoda più di 8 elettroni nel suo guscio di valenza (fino a 10 o 12).
-- **Condizione necessaria:** Può verificarsi **solo** per gli elementi dal 3° periodo in poi della [[Tavola Periodica]], poiché questi atomi dispongono di orbitali $d$ vuoti in cui possono "ospitare" gli elettroni in eccesso. Atomi come Carbonio, Azoto e Ossigeno (2° periodo) **non possono mai** espandere l'ottetto.
-- **Esempi tipici:** Pentacloruro di fosforo ($PCl_5$, con 10 elettroni di valenza attorno al Fosforo) e Esafluoruro di zolfo ($SF_6$, con 12 elettroni attorno allo Zolfo).
-
-### 3. Molecole con numero dispari di elettroni (Radicali)
-In alcune molecole, la somma totale degli elettroni di valenza è un numero dispari. Di conseguenza, almeno un atomo non potrà mai completare l'ottetto.
-- **Esempi tipici:** Il monossido di azoto ($NO$) e il biossido di azoto ($NO_2$). Queste specie possiedono un elettrone spaiato e sono definite **radicali liberi**, caratterizzati da elevata reattività.
+La **geometria molecolare** definisce la disposizione tridimensionale degli atomi che costituiscono una molecola. La forma di una molecola influenza profondamente le sue proprietà fisiche e chimiche (punti di fusione, ebollizione, solubilità e reattività).
 
 ---
 
-## L'Energia di Legame
-L'**energia di legame** (o entalpia di legame) è la quantità di energia (solitamente espressa in $kJ/mol$) necessaria per rompere un legame chimico in una mole di molecole allo stato gassoso, separandole in atomi neutri.
-Essendo un processo che richiede energia (rottura del legame), si tratta di un processo **endotermico** ($\Delta H > 0$).
-Al contrario, la *formazione* di un legame rilascia esattamente la stessa quantità di energia (processo **esotermico**, $\Delta H < 0$).
+## 1. La Teoria VSEPR
+La teoria **VSEPR** (*Valence Shell Electron Pair Repulsion*, ovvero Repulsione delle Coppie Elettroniche nello Guscio di Valenza) permette di prevedere la geometria di una molecola partendo dalla sua struttura di Lewis.
 
-### Relazioni Fondamentali (Spesso chieste ai test)
-- **Ordine di legame e Forza:** All'aumentare della molteplicità del legame (da singolo a doppio, a triplo), aumenta il numero di elettroni condivisi. Pertanto, l'energia di legame **aumenta** e il legame diventa più forte.
-- **Lunghezza ed Energia:** Vi è una proporzionalità inversa tra lunghezza e forza del legame. Un legame triplo è più *corto* e richiede *più energia* per essere rotto rispetto a un legame doppio, che a sua volta è più corto e forte di un legame singolo.
-  - Esempio di forza/energia: $C \equiv C > C = C > C - C$
-  - Esempio di lunghezza: $C - C > C = C > C \equiv C$
+### Il Principio Fondamentale
+I doppietti elettronici esterni (sia i **legami** sia le **coppie solitarie/lone pairs**) circondano l'atomo centrale e, avendo tutti carica negativa, si respingono a vicenda. Per ridurre al minimo questa repulsione, si dispongono alla **massima distanza possibile** l'uno dall'altro.
 
-> [!tip] Suggerimento per i test
-> Ricorda di non confondere l'energia *di legame* (intramolecolare) con le energie dei [[Legami Intermolecolari]] (come i legami a idrogeno o le forze di Van der Waals), che sono di svariati ordini di grandezza più deboli e governano i passaggi di stato, non le reazioni chimiche vere e proprie.
+### Il Numero Sterico ($NS$)
+Per determinare la geometria, si calcola il **Numero Sterico ($NS$)** attorno all'atomo centrale:
+$$NS = (\text{Numero di atomi legati}) + (\text{Numero di coppie solitarie}) $$
+
+*Nota per i test:* I legami doppi e tripli valgono come un *singolo* legame ai fini del calcolo della geometria molecolare.
+
+---
+
+## 2. Le Geometrie Principali
+
+Dipendendo dal Numero Sterico ($NS$), identifichiamo le seguenti geometrie ideali:
+
+### A. Numero Sterico = 2 $\rightarrow$ Geometria Lineare
+- **Disposizione:** I doppietti si dispongono a $180^\circ$ l'uno dall'altro.
+- **Esempio tipico:** Biossido di carbonio ($CO_2$), Cloruro di berillio ($BeCl_2$).
+- Nel caso di $CO_2$, l'atomo di carbonio centrale forma due doppi legami con gli ossigeni e non ha coppie solitarie.
+
+### B. Numero Sterico = 3 $\rightarrow$ Geometria Trigonale Planare
+- **Disposizione:** I doppietti si dirigono verso i vertici di un triangolo equilatero. Angoli di legame di $120^\circ$.
+- **Esempio tipico:** Trifluoruro di boro ($BF_3$), Formaldeide ($CH_2O$).
+- **Variante con Coppia Solitaria (Piegata):** Se uno dei tre doppietti è una coppia solitaria (es. Biossido di zolfo, $SO_2$), la geometria molecolare diventa **piegata** con un angolo leggermente inferiore a $120^\circ$, a causa della forte repulsione esercitata dal lone pair.
+
+### C. Numero Sterico = 4 $\rightarrow$ Geometria Tetraedrica
+- **Disposizione:** I quattro doppietti si dispongono nello spazio tridimensionale verso i vertici di un tetraedro regolare. Angolo di legame ideale di $109.5^\circ$.
+- **Esempio tipico:** Metano ($CH_4$).
+- **Variante con 1 Coppia Solitaria (Piramidale Trigonale):** Nell'ammoniaca ($NH_3$), il guscio d'atomo ha 3 legami e 1 coppia solitaria. La forte repulsione del lone pair schiaccia gli angoli di legame a circa $107^\circ$.
+- **Variante con 2 Coppie Solitarie (Piegata):** Nell'acqua ($H_2O$), l'ossigeno ha 2 legami e 2 coppie solitarie. La repulsione combinata delle due coppie solitarie riduce l'angolo di legame a $104.5^\circ$.
+
+---
+
+## 3. Determinazione della Polarità di una Molecola
+
+Una molecola è **polare** se possiede un momento di dipolo netto ($\mu_{tot} \neq 0$). La polarità dipende da due fattori cruciali:
+1. La presenza di **legami covalenti polari** (differenza di elettronegatività).
+2. La **geometria simmetrica o asimmetrica** della molecola.
+
+La polarità totale è la **somma vettoriale** dei singoli momenti di dipolo di ogni legame.
+
+### Molecole Apolari con Legami Polari (Simmetria)
+Se una molecola è perfettamente simmetrica, i singoli vettori dipolo si annullano a vicenda, rendendo la molecola globalmente apolare.
+- **$CO_2$ (Lineare):** I due vettori diretti verso gli ossigeni sono uguali e opposti. Si annullano $\rightarrow \mu = 0$ (Apolare).
+- **$BF_3$ (Trigonale planare):** I tre vettori verso i flori si annullano nel centro geometrico $\rightarrow \mu = 0$ (Apolare).
+- **$CH_4$ (Tetraedrica):** La simmetria spaziale annulla le deboli polarità dei legami $C-H \rightarrow \mu = 0$ (Apolare).
+
+### Molecole Polari (Asimmetria)
+Se la geometria è asimmetrica (spesso a causa della presenza di coppie solitarie sull'atomo centrale), i vettori non si annullano.
+- **$H_2O$ (Piegata):** I vettori legati all'idrogeno si sommano spingendo verso l'ossigeno, supportati anche dalle coppie solitarie $\rightarrow \mu \neq 0$ (Fortemente polare).
+- **$NH_3$ (Piramidale trigonale):** La geometria piramidale fa sì che i dipoli convergano verso l'azoto senza annullarsi $\rightarrow \mu \neq 0$ (Polare).
+
+---
+
+> [!tip] Regola empirica per i Test 🧠
+> Se l'atomo centrale è legato ad **atomi tutti uguali** e **NON ha coppie solitarie**, la molecola è quasi sempre **apolare** (es. $CO_2, BF_3, CCl_4$). 
+> Se l'atomo centrale presenta **coppie solitarie**, la molecola è quasi sempre **polare** (es. $H_2O, NH_3, SO_2$).
