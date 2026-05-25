@@ -1,5 +1,3 @@
-# La Tavola Periodica degli Elementi
-
 La Tavola Periodica moderna ordina gli elementi chimici in base al loro **numero atomico crescente ($Z$)**, raggruppandoli in modo che elementi con proprietà chimiche e fisiche simili si trovino vicini. La sua struttura è strettamente legata alla [[Configurazione Elettronica e Numeri Quantici]].
 
 ## 1. Struttura: Periodi e Gruppi
