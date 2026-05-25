@@ -1,5 +1,3 @@
-# Proprietà Colligative
-
 Le **proprietà colligative** sono quattro proprietà chimico-fisiche delle soluzioni che **dipendono esclusivamente dal numero totale di particelle di soluto** presenti nell'unità di volume (cioè dalla concentrazione totale) e **non dalla natura chimica del soluto** stesso. ^definizione-colligative
 
 * **Principio fondamentale per i quiz:** Una mole di molecole di glucosio, una mole di urea e una mole di saccarosio esercitano esattamente lo stesso effetto colligativo se sciolte nello stesso volume di solvente, poiché contengono lo stesso identico numero di particelle ($6,022 \cdot 10^{23}$, Numero di Avogadro). Al contrario, le sostanze che si dissociano modificano questo equilibrio (vedi il [[#4. Il Coefficiente di van 't Hoff (i)|Coefficiente di van 't Hoff]]).
@@ -51,11 +49,6 @@ La **pressione osmotica** ($\pi$) è definita come la pressione idrostatica da a
 
 ### Tonicità delle Soluzioni e Risvolti Fisiologici (Domanda Classica)
 La classificazione delle soluzioni in base alla pressione osmotica è fondamentale in biologia cellulare, specialmente studiando il comportamento delle emazie (globuli rossi):
-
-
-
-[Image of osmotic pressure and red blood cells in hypotonic, isotonic, and hypertonic solutions]
-
 
 * **Soluzioni Isotoniche:** Hanno la **stessa pressione osmotica** (stessa concentrazione totale di particelle). Il flusso netto di acqua è nullo. La soluzione fisiologica ($NaCl$ allo $0,9\% \, m/V$) è isotonica rispetto al citoplasma cellulare umano (~300 mOsm/L).
 * **Soluzioni Ipertoniche:** Hanno una pressione osmotica **maggiore** (più concentrate dell'ambiente interno cellulare). Se un globulo rosso viene immerso in una soluzione ipertonica, l'acqua esce dalla cellula per osmosi, causandone il rimpicciolimento e il raggrinzimento (**crenazione**).
