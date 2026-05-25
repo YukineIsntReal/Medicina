@@ -1,5 +1,3 @@
-# Il Carbonio e l'Ibridazione
-
 L'atomo di carbonio (simbolo $C$, numero atomico $Z=6$) è l'elemento cardine della chimica organica. La sua straordinaria capacità di formare catene complesse (catenazione) e una vasta gamma di molecole è dovuta alle sue peculiari proprietà elettroniche e alla capacità di ibridare i propri orbitali.
 
 ## Proprietà Fondamentali dell'Atomo di Carbonio
