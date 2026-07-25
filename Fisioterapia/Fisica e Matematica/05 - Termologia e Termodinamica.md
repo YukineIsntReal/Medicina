@@ -1,9 +1,9 @@
-La **Termodinamica** studia le leggi con cui i sistemi fisici scambiano energia con l'ambiente circostante sotto forma di calore e lavoro (un concetto che puoi rivedere in [[Dinamica: Leggi di Newton, Lavoro, Energia, Potenza e Conservazione]]).
+La **Termodinamica** studia le leggi con cui i sistemi fisici scambiano energia con l'ambiente circostante sotto forma di calore e lavoro (un concetto che puoi rivedere in [[03 - Dinamica]]).
 
 ## Temperatura e Calore
 
 Spesso confusi nel linguaggio comune, in fisica e nei quiz rappresentano grandezze ben distinte:
-- **Temperatura ($T$):** È un indice dell'energia cinetica media delle particelle di un corpo. Misura lo stato di agitazione termica del sistema. Nel Sistema Internazionale si misura in Kelvin (K). Come visto in [[Misure: Grandezze fisiche, Sistema Internazionale e Vettori]], è una grandezza fondamentale.
+- **Temperatura ($T$):** È un indice dell'energia cinetica media delle particelle di un corpo. Misura lo stato di agitazione termica del sistema. Nel Sistema Internazionale si misura in Kelvin (K). Come visto in [[01 - Grandezze fisiche, Sistema Internazionale e Vettori]], è una grandezza fondamentale.
   - *Conversione rapida Celsius-Kelvin:* $T(K) = T(^\circ C) + 273.15$
 - **Calore ($Q$):** È l'energia termica in transito da un corpo a temperatura maggiore verso uno a temperatura minore. L'unità di misura nel SI è il Joule (J), ma si usa ancora estesamente la caloria (cal) in ambito chimico e nutrizionale.
   - *Equivalente meccanico del calore:* $1 \, \text{cal} = 4.186 \, \text{J}$
@@ -31,7 +31,7 @@ Durante un passaggio di stato, la sostanza assorbe o cede calore **senza** varia
 - Gas $\rightarrow$ Solido: Brinamento (cede calore)
 
 ## Leggi dei Gas Ideali
-Un gas ideale (o perfetto) obbedisce a leggi specifiche ed è un modello valido ad alte temperature e basse pressioni. Per analizzare questi stati si ricorre costantemente al concetto di pressione, già approfondito in [[Meccanica dei Fluidi: Pressione, Principi di Archimede, Stevino e Pascal]].
+Un gas ideale (o perfetto) obbedisce a leggi specifiche ed è un modello valido ad alte temperature e basse pressioni. Per analizzare questi stati si ricorre costantemente al concetto di pressione, già approfondito in [[04 - Meccanica dei Fluidi]].
 
 **Equazione di Stato dei Gas Perfetti:**
 $$P \cdot V = n \cdot R \cdot T$$
