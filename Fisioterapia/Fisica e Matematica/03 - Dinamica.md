@@ -1,4 +1,4 @@
-La **Dinamica** studia il moto dei corpi in relazione alle cause che lo producono o lo modificano: le forze. Mentre la cinematica (vedi [[Cinematica: Moto Rettilineo, Accelerato e Circolare]]) descrive *come* si muove un corpo, la dinamica spiega *perché* lo fa.
+La **Dinamica** studia il moto dei corpi in relazione alle cause che lo producono o lo modificano: le forze. Mentre la cinematica (vedi [[02 - Cinematica]]) descrive *come* si muove un corpo, la dinamica spiega *perché* lo fa.
 
 ## Le Tre Leggi della Dinamica (Principi di Newton)
 
@@ -19,7 +19,7 @@ $$ \vec{F}_{A \to B} = - \vec{F}_{B \to A} $$
 ---
 
 ## Lavoro ($L$)
-Il Lavoro in fisica è il trasferimento di energia meccanica. Se una forza costante $\vec{F}$ produce uno spostamento $\vec{s}$, il lavoro è definito come il prodotto scalare tra i due vettori (concetto visto in [[Misure: Grandezze fisiche, Sistema Internazionale e Vettori]]):
+Il Lavoro in fisica è il trasferimento di energia meccanica. Se una forza costante $\vec{F}$ produce uno spostamento $\vec{s}$, il lavoro è definito come il prodotto scalare tra i due vettori (concetto visto in [[01 - Grandezze fisiche, Sistema Internazionale e Vettori]]):
 $$ L = \vec{F} \cdot \vec{s} = F \cdot s \cdot \cos(\theta) $$
 Dove $\theta$ è l'angolo compreso tra il vettore forza e il vettore spostamento.
 - **Unità di misura:** Il Joule ($\text{J}$), definito come $1 \, \text{J} = 1 \, \text{N} \cdot 1 \, \text{m}$.

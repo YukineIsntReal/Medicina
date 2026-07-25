@@ -1,6 +1,6 @@
 La **Cinematica** è il ramo della meccanica che descrive il moto dei corpi indipendentemente dalle cause che lo producono. Per descrivere il moto, è fondamentale definire un sistema di riferimento.
 
-Essendo velocità e accelerazione delle grandezze vettoriali, assicurati di aver consolidato i concetti espressi in [[Misure: Grandezze fisiche, Sistema Internazionale e Vettori#Vettori e Operazioni]].
+Essendo velocità e accelerazione delle grandezze vettoriali, assicurati di aver consolidato i concetti espressi in [[01 - Grandezze fisiche, Sistema Internazionale e Vettori]].
 
 ## Concetti Fondamentali
 - **Posizione ($s$ o $x$):** Il punto occupato da un corpo nello spazio in un determinato istante.
