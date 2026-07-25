@@ -12,15 +12,15 @@ Inoltre, ricorda la differenza tra:
 ## Il Sistema Internazionale (SI)
 Il Sistema Internazionale definisce sette grandezze **fondamentali**, fisicamente indipendenti, da cui si ricavano, tramite formule matematiche, tutte le grandezze **derivate** (come velocità, forza, pressione).
 
-| Grandezza Fondamentale | Unità di Misura | Simbolo |
-| :--- | :--- | :--- |
-| Lunghezza | metro | m |
-| Massa | chilogrammo | kg |
-| Tempo | secondo | s |
-| Intensità di corrente elettrica | ampere | A |
-| Temperatura termodinamica | kelvin | K |
-| Quantità di sostanza | mole | mol |
-| Intensità luminosa | candela | cd |
+| Grandezza Fondamentale          | Unità di Misura | Simbolo |
+| :------------------------------ | :-------------- | :------ |
+| Lunghezza                       | metro           | m       |
+| Massa                           | chilogrammo     | kg      |
+| Tempo                           | secondo         | s       |
+| Intensità di corrente elettrica | ampere          | A       |
+| Temperatura termodinamica       | kelvin          | K       |
+| Quantità di sostanza            | mole            | mol     |
+| Intensità luminosa              | candela         | cd      |
 
 *Attenzione per i test:* I prefissi del SI sono oggetto frequente di domanda. Assicurati di padroneggiare conversioni con prefissi come micro ($\mu$, $10^{-6}$), nano (n, $10^{-9}$) e pico (p, $10^{-12}$).
 
